@@ -1,3 +1,12 @@
 import React from "react"
+import { graphql } from 'gatsby'
 
-export default () => <div>Hello world!</div>
+const HomePage = () => {
+  return (
+    <div>
+      Hello!
+    </div>
+  )
+}
+
+export default HomePage
