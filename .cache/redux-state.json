@@ -745,12 +745,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-06T07:48:56.628Z",
+      "buildTime": "2018-11-06T08:07:08.548Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5caca3d83904643194a4da1054129e84",
+        "contentDigest": "80ceb1a82c02b5fda8ff6dfd34de8f87",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -760,7 +760,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f782acd542a18cf79dce8ce5969528e8",
+        "contentDigest": "bb30430488b896235143ad8a2ed22ead",
         "type": "Directory",
         "description": "Directory \"blog\"",
         "owner": "gatsby-source-filesystem"
@@ -772,7 +772,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2018-11-06T07:44:42.000Z",
-      "accessTime": "2018-11-06T07:49:01.000Z",
+      "accessTime": "2018-11-06T08:07:13.000Z",
       "changeTime": "2018-11-06T07:44:42.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
@@ -790,11 +790,11 @@
       "blksize": 4096,
       "ino": 175945237,
       "blocks": 0,
-      "atimeMs": 1541490541000,
+      "atimeMs": 1541491633000,
       "mtimeMs": 1541490282000,
       "ctimeMs": 1541490282000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T07:49:01.000Z",
+      "atime": "2018-11-06T08:07:13.000Z",
       "mtime": "2018-11-06T07:44:42.000Z",
       "ctime": "2018-11-06T07:44:42.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
@@ -806,7 +806,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "03a019a0c694df6af24d324e7a98c5ec",
+        "contentDigest": "2f06db80f6579872e863c29b5e45df6f",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"blog/test-1.md\"",
@@ -816,12 +816,12 @@
       "absolutePath": "/Users/Rurka/dxrs/blog/test-1.md",
       "relativePath": "test-1.md",
       "extension": "md",
-      "size": 129,
-      "prettySize": "129 B",
-      "modifiedTime": "2018-11-06T07:48:49.000Z",
-      "accessTime": "2018-11-06T07:48:49.000Z",
-      "changeTime": "2018-11-06T07:48:49.000Z",
-      "birthTime": "2018-11-06T04:10:23.000Z",
+      "size": 3513,
+      "prettySize": "3.51 kB",
+      "modifiedTime": "2018-11-06T08:08:21.000Z",
+      "accessTime": "2018-11-06T08:08:21.000Z",
+      "changeTime": "2018-11-06T08:08:21.000Z",
+      "birthTime": "2018-11-06T08:08:21.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/blog",
       "base": "test-1.md",
@@ -835,16 +835,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 175945238,
+      "ino": 175967504,
       "blocks": 8,
-      "atimeMs": 1541490529000,
-      "mtimeMs": 1541490529000,
-      "ctimeMs": 1541490529000,
-      "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T07:48:49.000Z",
-      "mtime": "2018-11-06T07:48:49.000Z",
-      "ctime": "2018-11-06T07:48:49.000Z",
-      "birthtime": "2018-11-06T04:10:23.000Z"
+      "atimeMs": 1541491701000,
+      "mtimeMs": 1541491701000,
+      "ctimeMs": 1541491701000,
+      "birthtimeMs": 1541491701000,
+      "atime": "2018-11-06T08:08:21.000Z",
+      "mtime": "2018-11-06T08:08:21.000Z",
+      "ctime": "2018-11-06T08:08:21.000Z",
+      "birthtime": "2018-11-06T08:08:21.000Z"
     },
     "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f": {
       "id": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f",
@@ -853,7 +853,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c124057922f8b87130ffcd7063168f20",
+        "contentDigest": "4b3ef31bc904746273ad22496efd31f8",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"blog/test-2.md\"",
@@ -863,12 +863,12 @@
       "absolutePath": "/Users/Rurka/dxrs/blog/test-2.md",
       "relativePath": "test-2.md",
       "extension": "md",
-      "size": 179,
-      "prettySize": "179 B",
-      "modifiedTime": "2018-11-06T07:48:29.000Z",
-      "accessTime": "2018-11-06T07:48:29.000Z",
-      "changeTime": "2018-11-06T07:48:29.000Z",
-      "birthTime": "2018-11-06T04:10:23.000Z",
+      "size": 104,
+      "prettySize": "104 B",
+      "modifiedTime": "2018-11-06T08:08:21.000Z",
+      "accessTime": "2018-11-06T08:08:21.000Z",
+      "changeTime": "2018-11-06T08:08:21.000Z",
+      "birthTime": "2018-11-06T08:08:21.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/blog",
       "base": "test-2.md",
@@ -882,16 +882,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 175945239,
+      "ino": 175967505,
       "blocks": 8,
-      "atimeMs": 1541490509000,
-      "mtimeMs": 1541490509000,
-      "ctimeMs": 1541490509000,
-      "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T07:48:29.000Z",
-      "mtime": "2018-11-06T07:48:29.000Z",
-      "ctime": "2018-11-06T07:48:29.000Z",
-      "birthtime": "2018-11-06T04:10:23.000Z"
+      "atimeMs": 1541491701000,
+      "mtimeMs": 1541491701000,
+      "ctimeMs": 1541491701000,
+      "birthtimeMs": 1541491701000,
+      "atime": "2018-11-06T08:08:21.000Z",
+      "mtime": "2018-11-06T08:08:21.000Z",
+      "ctime": "2018-11-06T08:08:21.000Z",
+      "birthtime": "2018-11-06T08:08:21.000Z"
     },
     "4d08a988-8839-5b5a-9f67-603d5d46ba0a": {
       "id": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
@@ -939,48 +939,6 @@
       "mtime": "2018-11-06T07:48:46.000Z",
       "ctime": "2018-11-06T07:48:46.000Z",
       "birthtime": "2018-11-06T07:44:42.000Z"
-    },
-    "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8": {
-      "id": "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8",
-      "children": [],
-      "parent": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f",
-      "internal": {
-        "content": "Another award winning post by Michael Rurka. Wow. He's so handsome. Good job! Nobel prize!!\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "01b4baff1b0a8d59e0e110b621314e55",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Test 2",
-        "path": "/test-2",
-        "city": "San Francisco",
-        "date": "2018-11-06T04:07:11.555Z",
-        "_PARENT": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Another award winning post by Michael Rurka. Wow. He's so handsome. Good job! Nobel prize!!\n",
-      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-2.md"
-    },
-    "c7f6b30d-28c9-5319-a895-fd86269356c1": {
-      "id": "c7f6b30d-28c9-5319-a895-fd86269356c1",
-      "children": [],
-      "parent": "b0ec4fc6-518a-5e77-bcbb-72856af2b291",
-      "internal": {
-        "content": "Awesome content. Amazing blog. Wow. Much wizdom.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "3324f33965be07ad2c1e8346d3ee222d",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Test 1",
-        "path": "/apple",
-        "city": "Toronto",
-        "date": "2018-11-06T03:40:20.403Z",
-        "_PARENT": "b0ec4fc6-518a-5e77-bcbb-72856af2b291"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Awesome content. Amazing blog. Wow. Much wizdom.\n",
-      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-1.md"
     },
     "8bf6e096-e795-5edb-93f7-8ee1de97436b": {
       "id": "8bf6e096-e795-5edb-93f7-8ee1de97436b",
@@ -1082,6 +1040,88 @@
         "description": "3664a81b-e58f-5706-a248-c78b6bd4a6a2",
         "owner": "internal-data-bridge"
       }
+    },
+    "c7f6b30d-28c9-5319-a895-fd86269356c1": {
+      "id": "c7f6b30d-28c9-5319-a895-fd86269356c1",
+      "children": [],
+      "parent": "b0ec4fc6-518a-5e77-bcbb-72856af2b291",
+      "internal": {
+        "content": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n![mountains](/assets/screen-shot-2018-10-13-at-18.05.53.jpg)\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "c0a5eb336a27d529e67169bb4af4da82",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hilda Cheung",
+        "path": "/fake-story-1",
+        "city": "Toronto",
+        "date": "2018-11-06T03:40:20.403Z",
+        "_PARENT": "b0ec4fc6-518a-5e77-bcbb-72856af2b291"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n![mountains](/assets/screen-shot-2018-10-13-at-18.05.53.jpg)\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-1.md"
+    },
+    "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8": {
+      "id": "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8",
+      "children": [],
+      "parent": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f",
+      "internal": {
+        "content": "dwa\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "38a717434845875b2380b44f22f107b0",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Adrian Seeley",
+        "path": "/fake-story-2",
+        "city": "San Francisco",
+        "date": "2018-11-06T04:07:11.555Z",
+        "_PARENT": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "dwa\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-2.md"
+    },
+    "SitePage /fake-story-2": {
+      "jsonName": "fake-story-2-3ae",
+      "internalComponentName": "ComponentFakeStory2",
+      "path": "/fake-story-2",
+      "component": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "id": "SitePage /fake-story-2",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "07c1bedfd6ce1160effe289665e17f10",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /fake-story-1": {
+      "jsonName": "fake-story-1-564",
+      "internalComponentName": "ComponentFakeStory1",
+      "path": "/fake-story-1",
+      "component": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "id": "SitePage /fake-story-1",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3e1e25134fbead9fb119de2735e46cad",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -1103,10 +1143,12 @@
         "/test-3"
       ],
       "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8": [
-        "/test-2"
+        "/test-2",
+        "/fake-story-2"
       ],
       "c7f6b30d-28c9-5319-a895-fd86269356c1": [
-        "/apple"
+        "/apple",
+        "/fake-story-1"
       ]
     },
     "connections": {
@@ -1123,13 +1165,15 @@
   },
   "jsonDataPaths": {
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "139/path---index-6a9-9rltADDbeGFTTMg7tBkk0ysiOI",
+    "index": "110/path---index-6a9-wk6GxIx1eZcLar64SyrgYwEdOQ4",
     "test-2-282": "763/path---test-2-282-8c9-YgV6PMucCfm5UqFLltIiArHr58",
     "apple-1f3": "882/path---apple-1-f-3-e0b-YgV6PMucCfm5UqFLltIiArHr58",
     "test-3-2b6": "879/path---test-3-2-b-6-e03-YgV6PMucCfm5UqFLltIiArHr58",
     "test-3-05d": "823/path---test-3-05-d-143-xy2Jh47jbZYGGnY2mh2ATX7lIK0",
-    "apple-a69": "491/path---apple-a-69-3b7-1lLHY5Tbn6PdISK1phow3AEbo",
-    "test-2-aaf": "721/path---test-2-aaf-80c-oEBK71KN2JLejtRNjqge4Gus"
+    "apple-a69": "589/path---apple-a-69-3b7-YgV6PMucCfm5UqFLltIiArHr58",
+    "test-2-aaf": "746/path---test-2-aaf-80c-YgV6PMucCfm5UqFLltIiArHr58",
+    "fake-story-2-3ae": "788/path---fake-story-2-3-ae-92b-NZV1I194wdkA61zl08GOrNQ4",
+    "fake-story-1-564": "414/path---fake-story-1-564-bb6-eb3l0rTmPGGWordIHIyu0vi4GQ"
   },
   "components": {
     "/Users/Rurka/dxrs/src/templates/blogTemplate.js": {

@@ -16,6 +16,16 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-template-js",
+        "jsonName": "fake-story-1-564",
+        "path": "/fake-story-1"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "jsonName": "fake-story-2-3ae",
+        "path": "/fake-story-2"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
         "jsonName": "test-2-aaf",
         "path": "/test-2"
     },
