@@ -43,3 +43,20 @@ exports.createPages = ({ graphql, actions }) => {
     )
   })
 }
+
+// Implement the Gatsby API “onCreatePage”. This is
+// called after every page is created.
+exports.onCreatePage = ({ page, actions }) => {
+  const { createPage, deletePage } = actions
+  return new Promise(resolve => {
+    const oldPage = Object.assign({}, page)
+    // Remove trailing slash unless page is /
+    page.path = _path => (_path === `/` ? _path : _path.replace(/\/$/, ``))
+    if (page.path !== oldPage.path) {
+      // Replace new page with old page
+      deletePage(oldPage)
+      createPage(page)
+    }
+    resolve()
+  })
+}
