@@ -306,11 +306,134 @@
         "owner": "internal-data-bridge"
       }
     },
+    "1231ba62-3887-54b5-9281-74f91506bdb0": {
+      "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-source-filesystem",
+      "id": "1231ba62-3887-54b5-9281-74f91506bdb0",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/Rurka/dxrs/blog/",
+        "name": "markdown-pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.7",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bd703daa2329fe72f144c9d88fd4852e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
       "resolve": "/Users/Rurka/dxrs",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "b4639fa26847762173dd8c7ab633ff90",
+      "version": "dfbe411a012774ce46e9890cc2d536de",
       "pluginOptions": {
         "plugins": []
       },
@@ -334,6 +457,10 @@
             "version": "^3.0.6"
           },
           {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.7"
+          },
+          {
             "name": "netlify-cms",
             "version": "^2.1.3"
           },
@@ -354,7 +481,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "424905a01b33c1c00b5030b3c9ced5a0",
+        "contentDigest": "84bb4d61a4ffdc411926c5811c65fa5f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -471,15 +598,149 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-06T05:25:00.898Z",
+      "buildTime": "2018-11-06T06:51:06.361Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "66a9e5a8007855deb1215a03bca4676c",
+        "contentDigest": "1bc362edb8f6961753b688db7809cb3c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
+    },
+    "19881883-9ea0-592f-925e-e79faa6f1a7f": {
+      "id": "19881883-9ea0-592f-925e-e79faa6f1a7f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c6fd279fc2f388c6cc0e58c91f337708",
+        "type": "Directory",
+        "description": "Directory \"blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/Rurka/dxrs/blog/",
+      "relativePath": "",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-11-06T04:10:23.000Z",
+      "accessTime": "2018-11-06T06:51:08.000Z",
+      "changeTime": "2018-11-06T04:10:23.000Z",
+      "birthTime": "2018-11-06T04:10:23.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 175945237,
+      "blocks": 0,
+      "atimeMs": 1541487068000,
+      "mtimeMs": 1541477423000,
+      "ctimeMs": 1541477423000,
+      "birthtimeMs": 1541477423000,
+      "atime": "2018-11-06T06:51:08.000Z",
+      "mtime": "2018-11-06T04:10:23.000Z",
+      "ctime": "2018-11-06T04:10:23.000Z",
+      "birthtime": "2018-11-06T04:10:23.000Z"
+    },
+    "b0ec4fc6-518a-5e77-bcbb-72856af2b291": {
+      "id": "b0ec4fc6-518a-5e77-bcbb-72856af2b291",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "222935ad729785fa207b03569c6517bb",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"blog/test-1.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/Rurka/dxrs/blog/test-1.md",
+      "relativePath": "test-1.md",
+      "extension": "md",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-11-06T04:10:23.000Z",
+      "accessTime": "2018-11-06T05:37:18.000Z",
+      "changeTime": "2018-11-06T04:10:23.000Z",
+      "birthTime": "2018-11-06T04:10:23.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/blog",
+      "base": "test-1.md",
+      "ext": ".md",
+      "name": "test-1",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 175945238,
+      "blocks": 8,
+      "atimeMs": 1541482638000,
+      "mtimeMs": 1541477423000,
+      "ctimeMs": 1541477423000,
+      "birthtimeMs": 1541477423000,
+      "atime": "2018-11-06T05:37:18.000Z",
+      "mtime": "2018-11-06T04:10:23.000Z",
+      "ctime": "2018-11-06T04:10:23.000Z",
+      "birthtime": "2018-11-06T04:10:23.000Z"
+    },
+    "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f": {
+      "id": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d12f74c2c1bbe3dd7e352bbe0f3ce564",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"blog/test-2.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/Rurka/dxrs/blog/test-2.md",
+      "relativePath": "test-2.md",
+      "extension": "md",
+      "size": 178,
+      "prettySize": "178 B",
+      "modifiedTime": "2018-11-06T04:10:23.000Z",
+      "accessTime": "2018-11-06T05:37:18.000Z",
+      "changeTime": "2018-11-06T04:10:23.000Z",
+      "birthTime": "2018-11-06T04:10:23.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/blog",
+      "base": "test-2.md",
+      "ext": ".md",
+      "name": "test-2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 175945239,
+      "blocks": 8,
+      "atimeMs": 1541482638000,
+      "mtimeMs": 1541477423000,
+      "ctimeMs": 1541477423000,
+      "birthtimeMs": 1541477423000,
+      "atime": "2018-11-06T05:37:18.000Z",
+      "mtime": "2018-11-06T04:10:23.000Z",
+      "ctime": "2018-11-06T04:10:23.000Z",
+      "birthtime": "2018-11-06T04:10:23.000Z"
     },
     "SitePage /": {
       "jsonName": "index",
@@ -504,17 +765,15 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "2c8da136191d5c3e3f32764ba0ccaa15"
+    "PLUGINS_HASH": "e4df5ad9e58c56a4d07364e4cda5ab09"
   },
   "componentDataDependencies": {
     "nodes": {},
     "connections": {}
   },
   "jsonDataPaths": {
-    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "admin-d15": "917/path---admin-d-15-2aa-NZuapzHg3X9TaN1iIixfv1W23E",
-    "blog-post-84d": "348/path---blog-post-84-d-4ac-NZuapzHg3X9TaN1iIixfv1W23E"
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/Rurka/dxrs/.cache/dev-404-page.js": {
