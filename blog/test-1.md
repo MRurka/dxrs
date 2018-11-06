@@ -1,5 +1,6 @@
 ---
 path: apple
+city: Toronto
 date: 2018-11-06T03:40:20.403Z
 title: Test 1
 ---
