@@ -1,5 +1,25 @@
 {
   "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/Rurka/dxrs/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/Rurka/dxrs/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "565039bd1cf71addbb540247316dd562",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
       "resolve": "/Users/Rurka/dxrs/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
@@ -180,13 +200,12 @@
       "resolve": "/Users/Rurka/dxrs",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "fb8c9f3bf43b1d6da626c3e8dd9684ef",
+      "version": "0ac90591bd3ead0ef146a7ac98b5c46a",
       "pluginOptions": {
         "plugins": []
       },
       "nodeAPIs": [
-        "createPages",
-        "onCreatePage"
+        "createPages"
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
@@ -225,7 +244,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7b2f90e019d3aec88d32cf87813961c7",
+        "contentDigest": "ce7eb22c9c6c7560e3974adc0a44b840",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -342,29 +361,70 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-06T04:21:27.857Z",
+      "buildTime": "2018-11-06T04:28:56.184Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "868fe6d85e8fec2cb33d2064e4bbb412",
+        "contentDigest": "285a86764c40514509dbbf756d0ca6ff",
         "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/Rurka/dxrs/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "3664a81b-e58f-5706-a248-c78b6bd4a6a2",
+      "pluginCreatorId": "3664a81b-e58f-5706-a248-c78b6bd4a6a2",
+      "componentPath": "/Users/Rurka/dxrs/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9a5a1270235447b6e7bc4019c84f50e0",
+        "description": "3664a81b-e58f-5706-a248-c78b6bd4a6a2",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "523657b0181107fe3eabfb9f59eb389c"
+    "PLUGINS_HASH": "54f0dc77c7b7d40c1157fcbf4f27e21b"
   },
   "componentDataDependencies": {
-    "nodes": {},
-    "connections": {}
+    "nodes": {
+      "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": [
+        "/"
+      ],
+      "3664a81b-e58f-5706-a248-c78b6bd4a6a2": [
+        "/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        null,
+        null
+      ]
+    }
   },
   "jsonDataPaths": {
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
   },
-  "components": {},
+  "components": {
+    "/Users/Rurka/dxrs/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/Rurka/dxrs/.cache/dev-404-page.js"
+    },
+    "/Users/Rurka/dxrs/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/Users/Rurka/dxrs/src/pages/index.js"
+    }
+  },
   "staticQueryComponents": {}
 }
