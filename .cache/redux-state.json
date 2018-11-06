@@ -310,11 +310,13 @@
       "resolve": "/Users/Rurka/dxrs",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "50494dc9ee6328deec27422866bbaa9c",
+      "version": "b4a2a4f95b86a543fb519a0c40ecd0c5",
       "pluginOptions": {
         "plugins": []
       },
-      "nodeAPIs": [],
+      "nodeAPIs": [
+        "createPages"
+      ],
       "browserAPIs": [],
       "ssrAPIs": [],
       "pluginFilepath": "/Users/Rurka/dxrs",
@@ -352,7 +354,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a55c3ebf3c56c742656b8da08edb9d1e",
+        "contentDigest": "a5b05d3960ee05b066b1c44151ccf5f7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -466,12 +468,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-06T03:30:22.843Z",
+      "buildTime": "2018-11-06T04:06:59.856Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2808658656227eb141d6ee0b7d5d72a5",
+        "contentDigest": "a94f179da7869e6388add001f5ba3f68",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -499,11 +501,22 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "b0dae993f4877e7d8df38ddef0854e6c"
+    "PLUGINS_HASH": "3b458fa5e1fcab977a735a89586bbf10"
   },
   "componentDataDependencies": {
-    "nodes": {},
-    "connections": {}
+    "nodes": {
+      "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": [
+        "/"
+      ],
+      "3664a81b-e58f-5706-a248-c78b6bd4a6a2": [
+        "/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        null
+      ]
+    }
   },
   "jsonDataPaths": {
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
