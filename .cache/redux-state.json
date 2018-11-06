@@ -429,11 +429,154 @@
         "owner": "internal-data-bridge"
       }
     },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.11",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "40a0af3bb6b066ffee9ffa32a6af14a9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
       "resolve": "/Users/Rurka/dxrs",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "dfbe411a012774ce46e9890cc2d536de",
+      "version": "333648eda3195a9c19f3539692a08aae",
       "pluginOptions": {
         "plugins": []
       },
@@ -461,6 +604,10 @@
             "version": "^2.0.7"
           },
           {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.11"
+          },
+          {
             "name": "netlify-cms",
             "version": "^2.1.3"
           },
@@ -481,7 +628,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "84bb4d61a4ffdc411926c5811c65fa5f",
+        "contentDigest": "ba1c3c9b8d20cb0f654c7576d8a3ebfb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -598,12 +745,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-06T06:51:06.361Z",
+      "buildTime": "2018-11-06T07:00:18.863Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1bc362edb8f6961753b688db7809cb3c",
+        "contentDigest": "7925f39da9125174eb5537c87f0a5e80",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -613,7 +760,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c6fd279fc2f388c6cc0e58c91f337708",
+        "contentDigest": "5031de221ec743551a669937e161c891",
         "type": "Directory",
         "description": "Directory \"blog\"",
         "owner": "gatsby-source-filesystem"
@@ -625,7 +772,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-11-06T04:10:23.000Z",
-      "accessTime": "2018-11-06T06:51:08.000Z",
+      "accessTime": "2018-11-06T07:00:21.000Z",
       "changeTime": "2018-11-06T04:10:23.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
@@ -643,18 +790,20 @@
       "blksize": 4096,
       "ino": 175945237,
       "blocks": 0,
-      "atimeMs": 1541487068000,
+      "atimeMs": 1541487621000,
       "mtimeMs": 1541477423000,
       "ctimeMs": 1541477423000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T06:51:08.000Z",
+      "atime": "2018-11-06T07:00:21.000Z",
       "mtime": "2018-11-06T04:10:23.000Z",
       "ctime": "2018-11-06T04:10:23.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
     },
     "b0ec4fc6-518a-5e77-bcbb-72856af2b291": {
       "id": "b0ec4fc6-518a-5e77-bcbb-72856af2b291",
-      "children": [],
+      "children": [
+        "c7f6b30d-28c9-5319-a895-fd86269356c1"
+      ],
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "222935ad729785fa207b03569c6517bb",
@@ -670,7 +819,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-11-06T04:10:23.000Z",
-      "accessTime": "2018-11-06T05:37:18.000Z",
+      "accessTime": "2018-11-06T06:58:56.000Z",
       "changeTime": "2018-11-06T04:10:23.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
@@ -688,18 +837,20 @@
       "blksize": 4096,
       "ino": 175945238,
       "blocks": 8,
-      "atimeMs": 1541482638000,
+      "atimeMs": 1541487536000,
       "mtimeMs": 1541477423000,
       "ctimeMs": 1541477423000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T05:37:18.000Z",
+      "atime": "2018-11-06T06:58:56.000Z",
       "mtime": "2018-11-06T04:10:23.000Z",
       "ctime": "2018-11-06T04:10:23.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
     },
     "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f": {
       "id": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f",
-      "children": [],
+      "children": [
+        "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8"
+      ],
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "d12f74c2c1bbe3dd7e352bbe0f3ce564",
@@ -715,7 +866,7 @@
       "size": 178,
       "prettySize": "178 B",
       "modifiedTime": "2018-11-06T04:10:23.000Z",
-      "accessTime": "2018-11-06T05:37:18.000Z",
+      "accessTime": "2018-11-06T06:58:56.000Z",
       "changeTime": "2018-11-06T04:10:23.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
@@ -733,14 +884,56 @@
       "blksize": 4096,
       "ino": 175945239,
       "blocks": 8,
-      "atimeMs": 1541482638000,
+      "atimeMs": 1541487536000,
       "mtimeMs": 1541477423000,
       "ctimeMs": 1541477423000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T05:37:18.000Z",
+      "atime": "2018-11-06T06:58:56.000Z",
       "mtime": "2018-11-06T04:10:23.000Z",
       "ctime": "2018-11-06T04:10:23.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
+    },
+    "c7f6b30d-28c9-5319-a895-fd86269356c1": {
+      "id": "c7f6b30d-28c9-5319-a895-fd86269356c1",
+      "children": [],
+      "parent": "b0ec4fc6-518a-5e77-bcbb-72856af2b291",
+      "internal": {
+        "content": "Awesome content. Amazing blog. Wow. Much wizdom.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "bf167f1795f41711b20ba937693096ae",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Test 1",
+        "path": "apple",
+        "city": "Toronto",
+        "date": "2018-11-06T03:40:20.403Z",
+        "_PARENT": "b0ec4fc6-518a-5e77-bcbb-72856af2b291"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Awesome content. Amazing blog. Wow. Much wizdom.\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-1.md"
+    },
+    "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8": {
+      "id": "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8",
+      "children": [],
+      "parent": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f",
+      "internal": {
+        "content": "Another award winning post by Michael Rurka. Wow. He's so handsome. Good job! Nobel prize!!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "4c385a22c44957475a39f817c912b17f",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Test 2",
+        "path": "test-2",
+        "city": "San Francisco",
+        "date": "2018-11-06T04:07:11.555Z",
+        "_PARENT": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Another award winning post by Michael Rurka. Wow. He's so handsome. Good job! Nobel prize!!\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-2.md"
     },
     "SitePage /": {
       "jsonName": "index",
@@ -765,15 +958,25 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "e4df5ad9e58c56a4d07364e4cda5ab09"
+    "PLUGINS_HASH": "73d1e09e8bc651dd3cfc4d82a25b87d1"
   },
   "componentDataDependencies": {
-    "nodes": {},
-    "connections": {}
+    "nodes": {
+      "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": [],
+      "3664a81b-e58f-5706-a248-c78b6bd4a6a2": []
+    },
+    "connections": {
+      "SitePage": [
+        null
+      ],
+      "MarkdownRemark": [
+        "/"
+      ]
+    }
   },
   "jsonDataPaths": {
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E"
+    "index": "611/path---index-6a9-ECd36CZnoNKc8UQzWtEEhazub4"
   },
   "components": {
     "/Users/Rurka/dxrs/.cache/dev-404-page.js": {
@@ -781,7 +984,7 @@
       "componentPath": "/Users/Rurka/dxrs/.cache/dev-404-page.js"
     },
     "/Users/Rurka/dxrs/src/pages/index.js": {
-      "query": "",
+      "query": "query usersRurkaDxrsSrcPagesIndexJs3473231669 {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        id\n        excerpt(pruneLength: 250)\n        frontmatter {\n          date(formatString: \"MMMM DD, YYYY\")\n          path\n          title\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/Rurka/dxrs/src/pages/index.js"
     }
   },

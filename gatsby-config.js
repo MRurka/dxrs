@@ -8,6 +8,7 @@ module.exports = {
         name: "markdown-pages",
       },
     },
+    `gatsby-transformer-remark`,
   ],
   siteMetadata: {
     title: "My Homepage",
