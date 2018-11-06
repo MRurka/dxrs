@@ -310,7 +310,7 @@
       "resolve": "/Users/Rurka/dxrs",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "4b4c2b5dfb46b9295f84127a12c94979",
+      "version": "b4639fa26847762173dd8c7ab633ff90",
       "pluginOptions": {
         "plugins": []
       },
@@ -354,7 +354,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ca09485493e16ab950fa6dbb45dd89d0",
+        "contentDigest": "424905a01b33c1c00b5030b3c9ced5a0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -469,12 +469,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2018-11-06T04:36:10.383Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-11-06T05:25:00.898Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "91fe27f5065c7cb223de4aaf642a1cc9",
+        "contentDigest": "66a9e5a8007855deb1215a03bca4676c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -502,7 +504,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "114456a4b3dc2dea8658aa0e71753820"
+    "PLUGINS_HASH": "2c8da136191d5c3e3f32764ba0ccaa15"
   },
   "componentDataDependencies": {
     "nodes": {},
@@ -511,7 +513,8 @@
   "jsonDataPaths": {
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "admin-d15": "917/path---admin-d-15-2aa-NZuapzHg3X9TaN1iIixfv1W23E"
+    "admin-d15": "917/path---admin-d-15-2aa-NZuapzHg3X9TaN1iIixfv1W23E",
+    "blog-post-84d": "348/path---blog-post-84-d-4ac-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/Rurka/dxrs/.cache/dev-404-page.js": {
