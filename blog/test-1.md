@@ -1,8 +1,8 @@
 ---
-path: /apple
+path: /fake-story-1
 city: Toronto
 date: 2018-11-06T03:40:20.403Z
-title: Test 1
+title: Hilda Cheung
 ---
 **What was your role at TWG?**
 
