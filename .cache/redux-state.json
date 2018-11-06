@@ -576,7 +576,7 @@
       "resolve": "/Users/Rurka/dxrs",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "333648eda3195a9c19f3539692a08aae",
+      "version": "c9513145044e9784568d9e07f33976f1",
       "pluginOptions": {
         "plugins": []
       },
@@ -628,7 +628,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ba1c3c9b8d20cb0f654c7576d8a3ebfb",
+        "contentDigest": "3d676d7279cbd8b2b5560a1627855ecb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -745,12 +745,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-06T07:00:18.863Z",
+      "buildTime": "2018-11-06T07:48:56.628Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7925f39da9125174eb5537c87f0a5e80",
+        "contentDigest": "5caca3d83904643194a4da1054129e84",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -760,7 +760,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5031de221ec743551a669937e161c891",
+        "contentDigest": "f782acd542a18cf79dce8ce5969528e8",
         "type": "Directory",
         "description": "Directory \"blog\"",
         "owner": "gatsby-source-filesystem"
@@ -769,11 +769,11 @@
       "absolutePath": "/Users/Rurka/dxrs/blog/",
       "relativePath": "",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-11-06T04:10:23.000Z",
-      "accessTime": "2018-11-06T07:00:21.000Z",
-      "changeTime": "2018-11-06T04:10:23.000Z",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-11-06T07:44:42.000Z",
+      "accessTime": "2018-11-06T07:49:01.000Z",
+      "changeTime": "2018-11-06T07:44:42.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs",
@@ -783,20 +783,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 4,
+      "nlink": 5,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 175945237,
       "blocks": 0,
-      "atimeMs": 1541487621000,
-      "mtimeMs": 1541477423000,
-      "ctimeMs": 1541477423000,
+      "atimeMs": 1541490541000,
+      "mtimeMs": 1541490282000,
+      "ctimeMs": 1541490282000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T07:00:21.000Z",
-      "mtime": "2018-11-06T04:10:23.000Z",
-      "ctime": "2018-11-06T04:10:23.000Z",
+      "atime": "2018-11-06T07:49:01.000Z",
+      "mtime": "2018-11-06T07:44:42.000Z",
+      "ctime": "2018-11-06T07:44:42.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
     },
     "b0ec4fc6-518a-5e77-bcbb-72856af2b291": {
@@ -806,7 +806,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "222935ad729785fa207b03569c6517bb",
+        "contentDigest": "03a019a0c694df6af24d324e7a98c5ec",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"blog/test-1.md\"",
@@ -816,11 +816,11 @@
       "absolutePath": "/Users/Rurka/dxrs/blog/test-1.md",
       "relativePath": "test-1.md",
       "extension": "md",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-11-06T04:10:23.000Z",
-      "accessTime": "2018-11-06T06:58:56.000Z",
-      "changeTime": "2018-11-06T04:10:23.000Z",
+      "size": 129,
+      "prettySize": "129 B",
+      "modifiedTime": "2018-11-06T07:48:49.000Z",
+      "accessTime": "2018-11-06T07:48:49.000Z",
+      "changeTime": "2018-11-06T07:48:49.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/blog",
@@ -837,13 +837,13 @@
       "blksize": 4096,
       "ino": 175945238,
       "blocks": 8,
-      "atimeMs": 1541487536000,
-      "mtimeMs": 1541477423000,
-      "ctimeMs": 1541477423000,
+      "atimeMs": 1541490529000,
+      "mtimeMs": 1541490529000,
+      "ctimeMs": 1541490529000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T06:58:56.000Z",
-      "mtime": "2018-11-06T04:10:23.000Z",
-      "ctime": "2018-11-06T04:10:23.000Z",
+      "atime": "2018-11-06T07:48:49.000Z",
+      "mtime": "2018-11-06T07:48:49.000Z",
+      "ctime": "2018-11-06T07:48:49.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
     },
     "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f": {
@@ -853,7 +853,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d12f74c2c1bbe3dd7e352bbe0f3ce564",
+        "contentDigest": "c124057922f8b87130ffcd7063168f20",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"blog/test-2.md\"",
@@ -863,11 +863,11 @@
       "absolutePath": "/Users/Rurka/dxrs/blog/test-2.md",
       "relativePath": "test-2.md",
       "extension": "md",
-      "size": 178,
-      "prettySize": "178 B",
-      "modifiedTime": "2018-11-06T04:10:23.000Z",
-      "accessTime": "2018-11-06T06:58:56.000Z",
-      "changeTime": "2018-11-06T04:10:23.000Z",
+      "size": 179,
+      "prettySize": "179 B",
+      "modifiedTime": "2018-11-06T07:48:29.000Z",
+      "accessTime": "2018-11-06T07:48:29.000Z",
+      "changeTime": "2018-11-06T07:48:29.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/blog",
@@ -884,35 +884,61 @@
       "blksize": 4096,
       "ino": 175945239,
       "blocks": 8,
-      "atimeMs": 1541487536000,
-      "mtimeMs": 1541477423000,
-      "ctimeMs": 1541477423000,
+      "atimeMs": 1541490509000,
+      "mtimeMs": 1541490509000,
+      "ctimeMs": 1541490509000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-06T06:58:56.000Z",
-      "mtime": "2018-11-06T04:10:23.000Z",
-      "ctime": "2018-11-06T04:10:23.000Z",
+      "atime": "2018-11-06T07:48:29.000Z",
+      "mtime": "2018-11-06T07:48:29.000Z",
+      "ctime": "2018-11-06T07:48:29.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
     },
-    "c7f6b30d-28c9-5319-a895-fd86269356c1": {
-      "id": "c7f6b30d-28c9-5319-a895-fd86269356c1",
-      "children": [],
-      "parent": "b0ec4fc6-518a-5e77-bcbb-72856af2b291",
+    "4d08a988-8839-5b5a-9f67-603d5d46ba0a": {
+      "id": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
+      "children": [
+        "8bf6e096-e795-5edb-93f7-8ee1de97436b"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "Awesome content. Amazing blog. Wow. Much wizdom.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "bf167f1795f41711b20ba937693096ae",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "8e534e11b3685f71abacfe6efaab6b77",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"blog/test-3.md\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Test 1",
-        "path": "apple",
-        "city": "Toronto",
-        "date": "2018-11-06T03:40:20.403Z",
-        "_PARENT": "b0ec4fc6-518a-5e77-bcbb-72856af2b291"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Awesome content. Amazing blog. Wow. Much wizdom.\n",
-      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-1.md"
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/Rurka/dxrs/blog/test-3.md",
+      "relativePath": "test-3.md",
+      "extension": "md",
+      "size": 138,
+      "prettySize": "138 B",
+      "modifiedTime": "2018-11-06T07:48:46.000Z",
+      "accessTime": "2018-11-06T07:48:46.000Z",
+      "changeTime": "2018-11-06T07:48:46.000Z",
+      "birthTime": "2018-11-06T07:44:42.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/blog",
+      "base": "test-3.md",
+      "ext": ".md",
+      "name": "test-3",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 175963736,
+      "blocks": 8,
+      "atimeMs": 1541490526000,
+      "mtimeMs": 1541490526000,
+      "ctimeMs": 1541490526000,
+      "birthtimeMs": 1541490282000,
+      "atime": "2018-11-06T07:48:46.000Z",
+      "mtime": "2018-11-06T07:48:46.000Z",
+      "ctime": "2018-11-06T07:48:46.000Z",
+      "birthtime": "2018-11-06T07:44:42.000Z"
     },
     "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8": {
       "id": "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8",
@@ -921,12 +947,12 @@
       "internal": {
         "content": "Another award winning post by Michael Rurka. Wow. He's so handsome. Good job! Nobel prize!!\n",
         "type": "MarkdownRemark",
-        "contentDigest": "4c385a22c44957475a39f817c912b17f",
+        "contentDigest": "01b4baff1b0a8d59e0e110b621314e55",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
         "title": "Test 2",
-        "path": "test-2",
+        "path": "/test-2",
         "city": "San Francisco",
         "date": "2018-11-06T04:07:11.555Z",
         "_PARENT": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f"
@@ -934,6 +960,108 @@
       "excerpt": "",
       "rawMarkdownBody": "Another award winning post by Michael Rurka. Wow. He's so handsome. Good job! Nobel prize!!\n",
       "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-2.md"
+    },
+    "c7f6b30d-28c9-5319-a895-fd86269356c1": {
+      "id": "c7f6b30d-28c9-5319-a895-fd86269356c1",
+      "children": [],
+      "parent": "b0ec4fc6-518a-5e77-bcbb-72856af2b291",
+      "internal": {
+        "content": "Awesome content. Amazing blog. Wow. Much wizdom.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3324f33965be07ad2c1e8346d3ee222d",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Test 1",
+        "path": "/apple",
+        "city": "Toronto",
+        "date": "2018-11-06T03:40:20.403Z",
+        "_PARENT": "b0ec4fc6-518a-5e77-bcbb-72856af2b291"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Awesome content. Amazing blog. Wow. Much wizdom.\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-1.md"
+    },
+    "8bf6e096-e795-5edb-93f7-8ee1de97436b": {
+      "id": "8bf6e096-e795-5edb-93f7-8ee1de97436b",
+      "children": [],
+      "parent": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
+      "internal": {
+        "content": "Wow, amazing article. Another best seller book. wow.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "5d89454f96eb01d3502f3319815d5f16",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Test 3",
+        "path": "/test-3",
+        "city": "Fredericton",
+        "date": "2018-11-06T07:42:29.956Z",
+        "_PARENT": "4d08a988-8839-5b5a-9f67-603d5d46ba0a"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Wow, amazing article. Another best seller book. wow.\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-3.md"
+    },
+    "SitePage /test-3": {
+      "jsonName": "test-3-05d",
+      "internalComponentName": "ComponentTest3",
+      "path": "/test-3",
+      "component": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "id": "SitePage /test-3",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d594b6ab5c2765731100e3ef43dae4bc",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /test-2": {
+      "jsonName": "test-2-aaf",
+      "internalComponentName": "ComponentTest2",
+      "path": "/test-2",
+      "component": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "id": "SitePage /test-2",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "32330fd1b5f53b9488b60ecfebcb78ac",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /apple": {
+      "jsonName": "apple-a69",
+      "internalComponentName": "ComponentApple",
+      "path": "/apple",
+      "component": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "id": "SitePage /apple",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fec4a11b0c2c5b38be648820cc2c905c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
     },
     "SitePage /": {
       "jsonName": "index",
@@ -958,27 +1086,56 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "73d1e09e8bc651dd3cfc4d82a25b87d1"
+    "PLUGINS_HASH": "8cad86038e1188c12f227fbfbbd31eb4"
   },
   "componentDataDependencies": {
     "nodes": {
-      "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": [],
-      "3664a81b-e58f-5706-a248-c78b6bd4a6a2": []
+      "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": [
+        "/"
+      ],
+      "7374ebf2-d961-52ee-92a2-c25e7cb387a9": [
+        "/"
+      ],
+      "3664a81b-e58f-5706-a248-c78b6bd4a6a2": [
+        "/"
+      ],
+      "8bf6e096-e795-5edb-93f7-8ee1de97436b": [
+        "/test-3"
+      ],
+      "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8": [
+        "/test-2"
+      ],
+      "c7f6b30d-28c9-5319-a895-fd86269356c1": [
+        "/apple"
+      ]
     },
     "connections": {
-      "SitePage": [
+      "MarkdownRemark": [
+        null,
+        "/",
         null
       ],
-      "MarkdownRemark": [
-        "/"
+      "SitePage": [
+        null,
+        null
       ]
     }
   },
   "jsonDataPaths": {
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "611/path---index-6a9-ECd36CZnoNKc8UQzWtEEhazub4"
+    "index": "139/path---index-6a9-9rltADDbeGFTTMg7tBkk0ysiOI",
+    "test-2-282": "763/path---test-2-282-8c9-YgV6PMucCfm5UqFLltIiArHr58",
+    "apple-1f3": "882/path---apple-1-f-3-e0b-YgV6PMucCfm5UqFLltIiArHr58",
+    "test-3-2b6": "879/path---test-3-2-b-6-e03-YgV6PMucCfm5UqFLltIiArHr58",
+    "test-3-05d": "823/path---test-3-05-d-143-xy2Jh47jbZYGGnY2mh2ATX7lIK0",
+    "apple-a69": "491/path---apple-a-69-3b7-1lLHY5Tbn6PdISK1phow3AEbo",
+    "test-2-aaf": "721/path---test-2-aaf-80c-oEBK71KN2JLejtRNjqge4Gus"
   },
   "components": {
+    "/Users/Rurka/dxrs/src/templates/blogTemplate.js": {
+      "query": "query usersRurkaDxrsSrcTemplatesBlogTemplateJs1579142440(\n  $path: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      path\n      title\n    }\n  }\n}\n",
+      "componentPath": "/Users/Rurka/dxrs/src/templates/blogTemplate.js"
+    },
     "/Users/Rurka/dxrs/.cache/dev-404-page.js": {
       "query": "",
       "componentPath": "/Users/Rurka/dxrs/.cache/dev-404-page.js"
