@@ -180,7 +180,7 @@
       "resolve": "/Users/Rurka/dxrs",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "b9c9a879f7e2c305a140df110c4c2431",
+      "version": "fb8c9f3bf43b1d6da626c3e8dd9684ef",
       "pluginOptions": {
         "plugins": []
       },
@@ -225,7 +225,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2efee405a817d92bc86d00f761bfa8f4",
+        "contentDigest": "7b2f90e019d3aec88d32cf87813961c7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -340,12 +340,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2018-11-06T04:17:23.666Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-11-06T04:21:27.857Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1a3e24b86505acc7f007a38f1d46caa6",
+        "contentDigest": "868fe6d85e8fec2cb33d2064e4bbb412",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -353,7 +355,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "f55c253efd06ec3253ac6d35a63294f3"
+    "PLUGINS_HASH": "523657b0181107fe3eabfb9f59eb389c"
   },
   "componentDataDependencies": {
     "nodes": {},

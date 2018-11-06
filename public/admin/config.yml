@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: mrurka/dxrs
+  repo: MRurka/dxrs
 
 media_folder: static/assets
 public_folder: assets

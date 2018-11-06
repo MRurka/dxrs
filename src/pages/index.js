@@ -9,4 +9,8 @@ const HomePage = () => {
   )
 }
 
+// export const query = graphql`
+//   # query will go here
+// `
+
 export default HomePage
