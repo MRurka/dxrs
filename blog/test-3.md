@@ -1,8 +1,8 @@
 ---
+title: Selena Huang
 path: /fake-story-3
-city: Fredericton
 date: 2018-11-06T07:42:29.956Z
-title: Philip Rurka
+image: /assets/screen-shot-2018-11-21-at-14.50.35.jpg
 ---
 **What was your role at TWG?**
 
