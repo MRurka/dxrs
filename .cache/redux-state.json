@@ -2236,7 +2236,7 @@
     "fake-story-3-52a": "183/path---fake-story-3-52-a-029-q6GITXLU7IZRNW9Sk1NpGyuP6U",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "fake-story-1-564": "417/path---fake-story-1-564-bb6-LRlpmgcKDFuDwr9WHdDTwq5YGUM",
-    "index": "633/path---index-6a9-cR2rMQesEwVJfbynXyv0KN7YJ8"
+    "index": "190/path---index-6a9-RuZKlHwaa62H3aA5XGLbFEVzg0"
   },
   "components": {
     "/Users/Rurka/dxrs/src/templates/blogTemplate.js": {
@@ -2248,7 +2248,7 @@
       "componentPath": "/Users/Rurka/dxrs/.cache/dev-404-page.js"
     },
     "/Users/Rurka/dxrs/src/pages/index.js": {
-      "query": "query usersRurkaDxrsSrcPagesIndexJs3473231669 {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        id\n        excerpt(pruneLength: 250)\n        frontmatter {\n          date(formatString: \"MMMM DD, YYYY\")\n          path\n          title\n        }\n      }\n    }\n  }\n}\n",
+      "query": "query usersRurkaDxrsSrcPagesIndexJs1310352120 {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        id\n        excerpt(pruneLength: 250)\n        frontmatter {\n          date(formatString: \"MMMM DD, YYYY\")\n          path\n          title\n          image\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/Rurka/dxrs/src/pages/index.js"
     }
   },
