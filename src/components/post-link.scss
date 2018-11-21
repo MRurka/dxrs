@@ -1,0 +1,19 @@
+.post-link-container {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.post-link {
+  border: 1px solid brown;
+  background: tan;
+  width: 50%;
+  &:nth-child(1n) {
+    height: 300px;
+  }
+  &:nth-child(2n),
+  &:nth-child(3n) {
+    height: 150px;
+    flex: 1;
+  }
+}

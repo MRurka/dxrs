@@ -5,11 +5,6 @@
         "path": "/"
     },
     {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "jsonName": "apple-a69",
-        "path": "/apple"
-    },
-    {
         "componentChunkName": "component---cache-dev-404-page-js",
         "jsonName": "dev-404-page-5f9",
         "path": "/dev-404-page/"
@@ -26,12 +21,7 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-template-js",
-        "jsonName": "test-2-aaf",
-        "path": "/test-2"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "jsonName": "test-3-05d",
-        "path": "/test-3"
+        "jsonName": "fake-story-3-52a",
+        "path": "/fake-story-3"
     }
 ]

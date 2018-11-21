@@ -11,8 +11,8 @@ collections:
     folder: blog
     create: true
     fields:
-      - { name: path, label: Path }
-      - { name: city, label: City}
-      - { name: date, label: Date, widget: date }
-      - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title,      label: Title }
+      - { name: path,       label: Path }
+      - { name: date,       label: Date,            widget: date }
+      - { name: thumbnail,  label: Feature Image,   widget: image }
+      - { name: body,       label: Body,            widget: markdown }
