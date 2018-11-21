@@ -508,13 +508,515 @@
         "owner": "internal-data-bridge"
       }
     },
-    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+    "e2a1cf30-1463-5f88-9660-e3d4463aaef1": {
+      "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-source-filesystem",
+      "id": "e2a1cf30-1463-5f88-9660-e3d4463aaef1",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/Rurka/dxrs/static/assets",
+        "name": "assets"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.7",
+        "keywords": {
+          "$ref": "$[\"nodes\"][\"1231ba62-3887-54b5-9281-74f91506bdb0\"][\"packageJson\"][\"keywords\"]"
+        },
+        "author": {
+          "$ref": "$[\"nodes\"][\"1231ba62-3887-54b5-9281-74f91506bdb0\"][\"packageJson\"][\"author\"]"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "16ef93414550aa9ae27b002389eab74f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "76d10c4a-3194-52a8-a7b0-6e5a7a4db488": {
+      "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-source-filesystem",
+      "id": "76d10c4a-3194-52a8-a7b0-6e5a7a4db488",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/Rurka/dxrs/src/content",
+        "name": "content"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.7",
+        "keywords": {
+          "$ref": "$[\"nodes\"][\"1231ba62-3887-54b5-9281-74f91506bdb0\"][\"packageJson\"][\"keywords\"]"
+        },
+        "author": {
+          "$ref": "$[\"nodes\"][\"1231ba62-3887-54b5-9281-74f91506bdb0\"][\"packageJson\"][\"author\"]"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f0daf72b6e6d3d006eb9bf6f471e8ffc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.8",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "32a71f2d62c8b7147496ece37225e85d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e614005c067d59bc41e9e5499b1500a8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "fdc5b158-e859-58ae-86e7-5d016f19ef90": {
       "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-transformer-remark",
-      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "id": "fdc5b158-e859-58ae-86e7-5d016f19ef90",
       "name": "gatsby-transformer-remark",
       "version": "2.1.11",
       "pluginOptions": {
-        "plugins": []
+        "plugins": [
+          {
+            "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-remark-relative-images",
+            "id": "97a6092b-356f-5b47-bcc4-2aa6b3321e55",
+            "name": "gatsby-remark-relative-images",
+            "version": "0.2.0",
+            "pluginOptions": {
+              "plugins": [],
+              "name": "assets"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-remark-relative-images"
+          },
+          {
+            "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-remark-images",
+            "id": "580fd6f0-a0f4-5cb7-ac28-2bea65acb525",
+            "name": "gatsby-remark-images",
+            "version": "2.0.6",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 650,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-remark-images"
+          }
+        ]
       },
       "nodeAPIs": [
         "onCreateNode",
@@ -646,7 +1148,210 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "40a0af3bb6b066ffee9ffa32a6af14a9",
+        "contentDigest": "8c65af42994159c40fa5ec8e67e16dd9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "97a6092b-356f-5b47-bcc4-2aa6b3321e55": {
+      "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-remark-relative-images",
+      "id": "97a6092b-356f-5b47-bcc4-2aa6b3321e55",
+      "name": "gatsby-remark-relative-images",
+      "version": "0.2.0",
+      "pluginOptions": {
+        "$ref": "$[\"nodes\"][\"fdc5b158-e859-58ae-86e7-5d016f19ef90\"][\"pluginOptions\"][\"plugins\"][0][\"pluginOptions\"]"
+      },
+      "nodeAPIs": {
+        "$ref": "$[\"nodes\"][\"fdc5b158-e859-58ae-86e7-5d016f19ef90\"][\"pluginOptions\"][\"plugins\"][0][\"nodeAPIs\"]"
+      },
+      "browserAPIs": {
+        "$ref": "$[\"nodes\"][\"fdc5b158-e859-58ae-86e7-5d016f19ef90\"][\"pluginOptions\"][\"plugins\"][0][\"browserAPIs\"]"
+      },
+      "ssrAPIs": {
+        "$ref": "$[\"nodes\"][\"fdc5b158-e859-58ae-86e7-5d016f19ef90\"][\"pluginOptions\"][\"plugins\"][0][\"ssrAPIs\"]"
+      },
+      "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-remark-relative-images",
+      "packageJson": {
+        "name": "gatsby-remark-relative-images",
+        "description": "Convert image src(s) in markdown to be relative to their node's parent directory. This will help gatsby-remark-images match images outside the node folder. For example, use with NetlifyCMS.",
+        "version": "0.2.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "relative",
+          "netlifycms",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Daniel Mahon",
+          "email": "daniel@mahonstudios.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-polyfill",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "1.0.0-rc.2"
+          },
+          {
+            "name": "deep-map",
+            "version": "1.5.0"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "4.17.5"
+          },
+          {
+            "name": "slash",
+            "version": "2.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "@babel/core",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "cross-env",
+            "version": "5.1.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c8db4ac8ef9f91cc53888efa8967b525",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "580fd6f0-a0f4-5cb7-ac28-2bea65acb525": {
+      "resolve": "/Users/Rurka/dxrs/node_modules/gatsby-remark-images",
+      "id": "580fd6f0-a0f4-5cb7-ac28-2bea65acb525",
+      "name": "gatsby-remark-images",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "$ref": "$[\"nodes\"][\"fdc5b158-e859-58ae-86e7-5d016f19ef90\"][\"pluginOptions\"][\"plugins\"][1][\"pluginOptions\"]"
+      },
+      "nodeAPIs": {
+        "$ref": "$[\"nodes\"][\"fdc5b158-e859-58ae-86e7-5d016f19ef90\"][\"pluginOptions\"][\"plugins\"][1][\"nodeAPIs\"]"
+      },
+      "browserAPIs": {
+        "$ref": "$[\"nodes\"][\"fdc5b158-e859-58ae-86e7-5d016f19ef90\"][\"pluginOptions\"][\"plugins\"][1][\"browserAPIs\"]"
+      },
+      "ssrAPIs": {
+        "$ref": "$[\"nodes\"][\"fdc5b158-e859-58ae-86e7-5d016f19ef90\"][\"pluginOptions\"][\"plugins\"][1][\"ssrAPIs\"]"
+      },
+      "pluginFilepath": "/Users/Rurka/dxrs/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "83ad7bb4cd26fa8c73163909233fd789",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -655,7 +1360,7 @@
       "resolve": "/Users/Rurka/dxrs",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "bfc65787c891f1f01df3c9cf50a76fc8",
+      "version": "4c6806e07e61c76591aa88494e0c81b0",
       "pluginOptions": {
         "plugins": []
       },
@@ -683,12 +1388,28 @@
             "version": "^2.0.4"
           },
           {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.12"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-remark-relative-images",
+            "version": "^0.2.0"
+          },
+          {
             "name": "gatsby-source-filesystem",
             "version": "^2.0.7"
           },
           {
             "name": "gatsby-transformer-remark",
             "version": "^2.1.11"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.8"
           },
           {
             "name": "netlify-cms",
@@ -715,7 +1436,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "eb025227d44924462db8933c3fce2d4c",
+        "contentDigest": "33132302402839f4b2c91658b35e1486",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -832,12 +1553,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-21T05:48:35.771Z",
+      "buildTime": "2018-11-21T06:33:51.047Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "05e799e6e921c534f88e06c72a0f34e6",
+        "contentDigest": "a2a3e7be7ff9d24a0a9652c894859bbe",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -847,7 +1568,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e6f037687cf1efa613398df53ca0e7f4",
+        "contentDigest": "7b6792f78f7dab33183de41b11e105d5",
         "type": "Directory",
         "description": "Directory \"blog\"",
         "owner": "gatsby-source-filesystem"
@@ -858,9 +1579,9 @@
       "extension": "",
       "size": 170,
       "prettySize": "170 B",
-      "modifiedTime": "2018-11-06T08:36:16.000Z",
-      "accessTime": "2018-11-21T05:48:41.000Z",
-      "changeTime": "2018-11-06T08:36:16.000Z",
+      "modifiedTime": "2018-11-21T05:59:24.000Z",
+      "accessTime": "2018-11-21T06:33:55.000Z",
+      "changeTime": "2018-11-21T05:59:24.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs",
@@ -877,13 +1598,13 @@
       "blksize": 4096,
       "ino": 175945237,
       "blocks": 0,
-      "atimeMs": 1542779321000,
-      "mtimeMs": 1541493376000,
-      "ctimeMs": 1541493376000,
+      "atimeMs": 1542782035000,
+      "mtimeMs": 1542779964000,
+      "ctimeMs": 1542779964000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-21T05:48:41.000Z",
-      "mtime": "2018-11-06T08:36:16.000Z",
-      "ctime": "2018-11-06T08:36:16.000Z",
+      "atime": "2018-11-21T06:33:55.000Z",
+      "mtime": "2018-11-21T05:59:24.000Z",
+      "ctime": "2018-11-21T05:59:24.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
     },
     "b0ec4fc6-518a-5e77-bcbb-72856af2b291": {
@@ -893,7 +1614,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2f06db80f6579872e863c29b5e45df6f",
+        "contentDigest": "46a0dd5802e80bbecd86c439825d358c",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"blog/test-1.md\"",
@@ -903,12 +1624,12 @@
       "absolutePath": "/Users/Rurka/dxrs/blog/test-1.md",
       "relativePath": "test-1.md",
       "extension": "md",
-      "size": 3513,
-      "prettySize": "3.51 kB",
-      "modifiedTime": "2018-11-06T08:08:21.000Z",
-      "accessTime": "2018-11-21T04:30:11.000Z",
-      "changeTime": "2018-11-06T08:08:21.000Z",
-      "birthTime": "2018-11-06T08:08:21.000Z",
+      "size": 3553,
+      "prettySize": "3.55 kB",
+      "modifiedTime": "2018-11-21T05:59:24.000Z",
+      "accessTime": "2018-11-21T06:31:43.000Z",
+      "changeTime": "2018-11-21T05:59:24.000Z",
+      "birthTime": "2018-11-21T05:59:24.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/blog",
       "base": "test-1.md",
@@ -922,63 +1643,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 175967504,
+      "ino": 176202017,
       "blocks": 8,
-      "atimeMs": 1542774611000,
-      "mtimeMs": 1541491701000,
-      "ctimeMs": 1541491701000,
-      "birthtimeMs": 1541491701000,
-      "atime": "2018-11-21T04:30:11.000Z",
-      "mtime": "2018-11-06T08:08:21.000Z",
-      "ctime": "2018-11-06T08:08:21.000Z",
-      "birthtime": "2018-11-06T08:08:21.000Z"
-    },
-    "4d08a988-8839-5b5a-9f67-603d5d46ba0a": {
-      "id": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
-      "children": [
-        "8bf6e096-e795-5edb-93f7-8ee1de97436b"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6f02da8ce39671e78edc591eb1e1de0c",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"blog/test-3.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "markdown-pages",
-      "absolutePath": "/Users/Rurka/dxrs/blog/test-3.md",
-      "relativePath": "test-3.md",
-      "extension": "md",
-      "size": 3455,
-      "prettySize": "3.46 kB",
-      "modifiedTime": "2018-11-06T08:36:16.000Z",
-      "accessTime": "2018-11-21T04:30:11.000Z",
-      "changeTime": "2018-11-06T08:36:16.000Z",
-      "birthTime": "2018-11-06T08:36:16.000Z",
-      "root": "/",
-      "dir": "/Users/Rurka/dxrs/blog",
-      "base": "test-3.md",
-      "ext": ".md",
-      "name": "test-3",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 175968981,
-      "blocks": 8,
-      "atimeMs": 1542774611000,
-      "mtimeMs": 1541493376000,
-      "ctimeMs": 1541493376000,
-      "birthtimeMs": 1541493376000,
-      "atime": "2018-11-21T04:30:11.000Z",
-      "mtime": "2018-11-06T08:36:16.000Z",
-      "ctime": "2018-11-06T08:36:16.000Z",
-      "birthtime": "2018-11-06T08:36:16.000Z"
+      "atimeMs": 1542781903000,
+      "mtimeMs": 1542779964000,
+      "ctimeMs": 1542779964000,
+      "birthtimeMs": 1542779964000,
+      "atime": "2018-11-21T06:31:43.000Z",
+      "mtime": "2018-11-21T05:59:24.000Z",
+      "ctime": "2018-11-21T05:59:24.000Z",
+      "birthtime": "2018-11-21T05:59:24.000Z"
     },
     "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f": {
       "id": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f",
@@ -987,7 +1661,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4b3ef31bc904746273ad22496efd31f8",
+        "contentDigest": "5e9212efe245cbb16523d4bcea7ca861",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"blog/test-2.md\"",
@@ -997,12 +1671,12 @@
       "absolutePath": "/Users/Rurka/dxrs/blog/test-2.md",
       "relativePath": "test-2.md",
       "extension": "md",
-      "size": 104,
-      "prettySize": "104 B",
-      "modifiedTime": "2018-11-06T08:08:21.000Z",
-      "accessTime": "2018-11-21T04:30:11.000Z",
-      "changeTime": "2018-11-06T08:08:21.000Z",
-      "birthTime": "2018-11-06T08:08:21.000Z",
+      "size": 138,
+      "prettySize": "138 B",
+      "modifiedTime": "2018-11-21T05:59:24.000Z",
+      "accessTime": "2018-11-21T06:31:43.000Z",
+      "changeTime": "2018-11-21T05:59:24.000Z",
+      "birthTime": "2018-11-21T05:59:24.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/blog",
       "base": "test-2.md",
@@ -1016,16 +1690,63 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 175967505,
+      "ino": 176202018,
       "blocks": 8,
-      "atimeMs": 1542774611000,
-      "mtimeMs": 1541491701000,
-      "ctimeMs": 1541491701000,
-      "birthtimeMs": 1541491701000,
-      "atime": "2018-11-21T04:30:11.000Z",
-      "mtime": "2018-11-06T08:08:21.000Z",
-      "ctime": "2018-11-06T08:08:21.000Z",
-      "birthtime": "2018-11-06T08:08:21.000Z"
+      "atimeMs": 1542781903000,
+      "mtimeMs": 1542779964000,
+      "ctimeMs": 1542779964000,
+      "birthtimeMs": 1542779964000,
+      "atime": "2018-11-21T06:31:43.000Z",
+      "mtime": "2018-11-21T05:59:24.000Z",
+      "ctime": "2018-11-21T05:59:24.000Z",
+      "birthtime": "2018-11-21T05:59:24.000Z"
+    },
+    "4d08a988-8839-5b5a-9f67-603d5d46ba0a": {
+      "id": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
+      "children": [
+        "8bf6e096-e795-5edb-93f7-8ee1de97436b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4874f6d58d2cb81ebcc7bbd1759147e4",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"blog/test-3.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/Rurka/dxrs/blog/test-3.md",
+      "relativePath": "test-3.md",
+      "extension": "md",
+      "size": 3491,
+      "prettySize": "3.49 kB",
+      "modifiedTime": "2018-11-21T05:59:24.000Z",
+      "accessTime": "2018-11-21T06:31:43.000Z",
+      "changeTime": "2018-11-21T05:59:24.000Z",
+      "birthTime": "2018-11-21T05:59:24.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/blog",
+      "base": "test-3.md",
+      "ext": ".md",
+      "name": "test-3",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 176202019,
+      "blocks": 8,
+      "atimeMs": 1542781903000,
+      "mtimeMs": 1542779964000,
+      "ctimeMs": 1542779964000,
+      "birthtimeMs": 1542779964000,
+      "atime": "2018-11-21T06:31:43.000Z",
+      "mtime": "2018-11-21T05:59:24.000Z",
+      "ctime": "2018-11-21T05:59:24.000Z",
+      "birthtime": "2018-11-21T05:59:24.000Z"
     },
     "c7f6b30d-28c9-5319-a895-fd86269356c1": {
       "id": "c7f6b30d-28c9-5319-a895-fd86269356c1",
@@ -1034,40 +1755,19 @@
       "internal": {
         "content": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n![mountains](/assets/screen-shot-2018-10-13-at-18.05.53.jpg)\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "c0a5eb336a27d529e67169bb4af4da82",
+        "contentDigest": "de9b1c0fae9582aaff644baf16a894ba",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
         "title": "Hilda Cheung",
         "path": "/fake-story-1",
-        "city": "Toronto",
         "date": "2018-11-06T03:40:20.403Z",
+        "image": "/assets/screen-shot-2018-11-21-at-14.49.29.jpg",
         "_PARENT": "b0ec4fc6-518a-5e77-bcbb-72856af2b291"
       },
       "excerpt": "",
       "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n![mountains](/assets/screen-shot-2018-10-13-at-18.05.53.jpg)\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
       "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-1.md"
-    },
-    "8bf6e096-e795-5edb-93f7-8ee1de97436b": {
-      "id": "8bf6e096-e795-5edb-93f7-8ee1de97436b",
-      "children": [],
-      "parent": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
-      "internal": {
-        "content": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "d7c1d56ae5f4472ca2bc353bef3295f9",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Philip Rurka",
-        "path": "/fake-story-3",
-        "city": "Fredericton",
-        "date": "2018-11-06T07:42:29.956Z",
-        "_PARENT": "4d08a988-8839-5b5a-9f67-603d5d46ba0a"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
-      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-3.md"
     },
     "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8": {
       "id": "49a9f2a0-4aaa-5cf9-a023-2c49a23636d8",
@@ -1076,19 +1776,356 @@
       "internal": {
         "content": "dwa\n",
         "type": "MarkdownRemark",
-        "contentDigest": "38a717434845875b2380b44f22f107b0",
+        "contentDigest": "421531e10b3e2edc5bfdbbe0e648eee6",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
         "title": "Adrian Seeley",
         "path": "/fake-story-2",
-        "city": "San Francisco",
         "date": "2018-11-06T04:07:11.555Z",
+        "image": "/assets/screen-shot-2018-11-21-at-14.50.54.jpg",
         "_PARENT": "63c06d9e-d7cf-53fa-b4a2-4b13665fcf7f"
       },
       "excerpt": "",
       "rawMarkdownBody": "dwa\n",
       "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-2.md"
+    },
+    "8bf6e096-e795-5edb-93f7-8ee1de97436b": {
+      "id": "8bf6e096-e795-5edb-93f7-8ee1de97436b",
+      "children": [],
+      "parent": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
+      "internal": {
+        "content": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "620b77ea9b9a13e2b06fac2c90dffe09",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Selena Huang",
+        "path": "/fake-story-3",
+        "date": "2018-11-06T07:42:29.956Z",
+        "image": "/assets/screen-shot-2018-11-21-at-14.50.35.jpg",
+        "_PARENT": "4d08a988-8839-5b5a-9f67-603d5d46ba0a"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-3.md"
+    },
+    "23e0df02-127f-5482-a1d3-ed9a5e8abd95": {
+      "id": "23e0df02-127f-5482-a1d3-ed9a5e8abd95",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "673d5418a5f63cf13fc4585652838850",
+        "type": "Directory",
+        "description": "Directory \"static/assets\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/Rurka/dxrs/static/assets",
+      "relativePath": "",
+      "extension": "",
+      "size": 204,
+      "prettySize": "204 B",
+      "modifiedTime": "2018-11-21T05:59:24.000Z",
+      "accessTime": "2018-11-21T06:33:55.000Z",
+      "changeTime": "2018-11-21T05:59:24.000Z",
+      "birthTime": "2018-11-06T08:08:21.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/static",
+      "base": "assets",
+      "ext": "",
+      "name": "assets",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 175967506,
+      "blocks": 0,
+      "atimeMs": 1542782035000,
+      "mtimeMs": 1542779964000,
+      "ctimeMs": 1542779964000,
+      "birthtimeMs": 1541491701000,
+      "atime": "2018-11-21T06:33:55.000Z",
+      "mtime": "2018-11-21T05:59:24.000Z",
+      "ctime": "2018-11-21T05:59:24.000Z",
+      "birthtime": "2018-11-06T08:08:21.000Z"
+    },
+    "de3b4c41-07a1-572d-a153-d0dee44fb7e0": {
+      "id": "de3b4c41-07a1-572d-a153-d0dee44fb7e0",
+      "children": [
+        "b72e296e-836e-5c99-a110-251a4802a6b5"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eec7b6b1c110ccdfd47e0528d53348f6",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"static/assets/screen-shot-2018-10-13-at-18.05.53.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/Rurka/dxrs/static/assets/screen-shot-2018-10-13-at-18.05.53.jpg",
+      "relativePath": "screen-shot-2018-10-13-at-18.05.53.jpg",
+      "extension": "jpg",
+      "size": 198109,
+      "prettySize": "198 kB",
+      "modifiedTime": "2018-11-06T08:08:21.000Z",
+      "accessTime": "2018-11-21T06:31:53.000Z",
+      "changeTime": "2018-11-06T08:08:21.000Z",
+      "birthTime": "2018-11-06T08:08:21.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/static/assets",
+      "base": "screen-shot-2018-10-13-at-18.05.53.jpg",
+      "ext": ".jpg",
+      "name": "screen-shot-2018-10-13-at-18.05.53",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 175967507,
+      "blocks": 392,
+      "atimeMs": 1542781913000,
+      "mtimeMs": 1541491701000,
+      "ctimeMs": 1541491701000,
+      "birthtimeMs": 1541491701000,
+      "atime": "2018-11-21T06:31:53.000Z",
+      "mtime": "2018-11-06T08:08:21.000Z",
+      "ctime": "2018-11-06T08:08:21.000Z",
+      "birthtime": "2018-11-06T08:08:21.000Z"
+    },
+    "b72e296e-836e-5c99-a110-251a4802a6b5": {
+      "id": "b72e296e-836e-5c99-a110-251a4802a6b5",
+      "children": [],
+      "parent": "de3b4c41-07a1-572d-a153-d0dee44fb7e0",
+      "internal": {
+        "contentDigest": "eec7b6b1c110ccdfd47e0528d53348f6",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "8b1c9b54-6a33-564e-8d61-15e3a50f7d46": {
+      "id": "8b1c9b54-6a33-564e-8d61-15e3a50f7d46",
+      "children": [
+        "f9857ab5-62ef-5360-ba4f-d87555128a02"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "995b2ad283bbcfc60919b65228feb416",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"static/assets/screen-shot-2018-11-21-at-14.49.29.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/Rurka/dxrs/static/assets/screen-shot-2018-11-21-at-14.49.29.jpg",
+      "relativePath": "screen-shot-2018-11-21-at-14.49.29.jpg",
+      "extension": "jpg",
+      "size": 507243,
+      "prettySize": "507 kB",
+      "modifiedTime": "2018-11-21T05:59:24.000Z",
+      "accessTime": "2018-11-21T06:31:53.000Z",
+      "changeTime": "2018-11-21T05:59:24.000Z",
+      "birthTime": "2018-11-21T05:59:24.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/static/assets",
+      "base": "screen-shot-2018-11-21-at-14.49.29.jpg",
+      "ext": ".jpg",
+      "name": "screen-shot-2018-11-21-at-14.49.29",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 176202020,
+      "blocks": 992,
+      "atimeMs": 1542781913000,
+      "mtimeMs": 1542779964000,
+      "ctimeMs": 1542779964000,
+      "birthtimeMs": 1542779964000,
+      "atime": "2018-11-21T06:31:53.000Z",
+      "mtime": "2018-11-21T05:59:24.000Z",
+      "ctime": "2018-11-21T05:59:24.000Z",
+      "birthtime": "2018-11-21T05:59:24.000Z"
+    },
+    "f9857ab5-62ef-5360-ba4f-d87555128a02": {
+      "id": "f9857ab5-62ef-5360-ba4f-d87555128a02",
+      "children": [],
+      "parent": "8b1c9b54-6a33-564e-8d61-15e3a50f7d46",
+      "internal": {
+        "contentDigest": "995b2ad283bbcfc60919b65228feb416",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "6e1cfb39-0387-57fe-a4bd-953353026d80": {
+      "id": "6e1cfb39-0387-57fe-a4bd-953353026d80",
+      "children": [
+        "ac5ec990-d708-59b9-9a67-b8291968bb77"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bfa333d7389efdf080605208b8a55731",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"static/assets/screen-shot-2018-11-21-at-14.50.54.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/Rurka/dxrs/static/assets/screen-shot-2018-11-21-at-14.50.54.jpg",
+      "relativePath": "screen-shot-2018-11-21-at-14.50.54.jpg",
+      "extension": "jpg",
+      "size": 556412,
+      "prettySize": "556 kB",
+      "modifiedTime": "2018-11-21T05:59:24.000Z",
+      "accessTime": "2018-11-21T06:31:53.000Z",
+      "changeTime": "2018-11-21T05:59:24.000Z",
+      "birthTime": "2018-11-21T05:59:24.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/static/assets",
+      "base": "screen-shot-2018-11-21-at-14.50.54.jpg",
+      "ext": ".jpg",
+      "name": "screen-shot-2018-11-21-at-14.50.54",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 176202022,
+      "blocks": 1088,
+      "atimeMs": 1542781913000,
+      "mtimeMs": 1542779964000,
+      "ctimeMs": 1542779964000,
+      "birthtimeMs": 1542779964000,
+      "atime": "2018-11-21T06:31:53.000Z",
+      "mtime": "2018-11-21T05:59:24.000Z",
+      "ctime": "2018-11-21T05:59:24.000Z",
+      "birthtime": "2018-11-21T05:59:24.000Z"
+    },
+    "ac5ec990-d708-59b9-9a67-b8291968bb77": {
+      "id": "ac5ec990-d708-59b9-9a67-b8291968bb77",
+      "children": [],
+      "parent": "6e1cfb39-0387-57fe-a4bd-953353026d80",
+      "internal": {
+        "contentDigest": "bfa333d7389efdf080605208b8a55731",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "5bcd9a08-7e95-5b1a-8980-7bf03adb54ac": {
+      "id": "5bcd9a08-7e95-5b1a-8980-7bf03adb54ac",
+      "children": [
+        "bd2553f1-8041-5aaf-b552-2739b857d4b3"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "58dd0e323baf8848f5e35a6069b6eacc",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"static/assets/screen-shot-2018-11-21-at-14.50.35.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/Rurka/dxrs/static/assets/screen-shot-2018-11-21-at-14.50.35.jpg",
+      "relativePath": "screen-shot-2018-11-21-at-14.50.35.jpg",
+      "extension": "jpg",
+      "size": 694086,
+      "prettySize": "694 kB",
+      "modifiedTime": "2018-11-21T05:59:24.000Z",
+      "accessTime": "2018-11-21T06:31:53.000Z",
+      "changeTime": "2018-11-21T05:59:24.000Z",
+      "birthTime": "2018-11-21T05:59:24.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/static/assets",
+      "base": "screen-shot-2018-11-21-at-14.50.35.jpg",
+      "ext": ".jpg",
+      "name": "screen-shot-2018-11-21-at-14.50.35",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 176202021,
+      "blocks": 1360,
+      "atimeMs": 1542781913000,
+      "mtimeMs": 1542779964000,
+      "ctimeMs": 1542779964000,
+      "birthtimeMs": 1542779964000,
+      "atime": "2018-11-21T06:31:53.000Z",
+      "mtime": "2018-11-21T05:59:24.000Z",
+      "ctime": "2018-11-21T05:59:24.000Z",
+      "birthtime": "2018-11-21T05:59:24.000Z"
+    },
+    "bd2553f1-8041-5aaf-b552-2739b857d4b3": {
+      "id": "bd2553f1-8041-5aaf-b552-2739b857d4b3",
+      "children": [],
+      "parent": "5bcd9a08-7e95-5b1a-8980-7bf03adb54ac",
+      "internal": {
+        "contentDigest": "58dd0e323baf8848f5e35a6069b6eacc",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "e35066e5-ce47-57b5-9ab8-8d4a76447292": {
+      "id": "e35066e5-ce47-57b5-9ab8-8d4a76447292",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3b4c82d6c4d62610c5ce1c13271740e6",
+        "type": "Directory",
+        "description": "Directory \"src/content\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "content",
+      "absolutePath": "/Users/Rurka/dxrs/src/content",
+      "relativePath": "",
+      "extension": "",
+      "size": 68,
+      "prettySize": "68 B",
+      "modifiedTime": "2018-11-21T06:31:15.000Z",
+      "accessTime": "2018-11-21T06:33:55.000Z",
+      "changeTime": "2018-11-21T06:31:15.000Z",
+      "birthTime": "2018-11-21T06:31:15.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/src",
+      "base": "content",
+      "ext": "",
+      "name": "content",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 176217670,
+      "blocks": 0,
+      "atimeMs": 1542782035000,
+      "mtimeMs": 1542781875000,
+      "ctimeMs": 1542781875000,
+      "birthtimeMs": 1542781875000,
+      "atime": "2018-11-21T06:33:55.000Z",
+      "mtime": "2018-11-21T06:31:15.000Z",
+      "ctime": "2018-11-21T06:31:15.000Z",
+      "birthtime": "2018-11-21T06:31:15.000Z"
     },
     "SitePage /fake-story-3": {
       "jsonName": "fake-story-3-52a",
@@ -1173,7 +2210,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "71f62d0dcde4f14d4f522655dbcaae98"
+    "PLUGINS_HASH": "463c762ba3dbd0c86bde63d0586af563"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -1190,23 +2227,16 @@
     "connections": {
       "MarkdownRemark": [
         null,
-        "/",
-        null
+        "/"
       ]
     }
   },
   "jsonDataPaths": {
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "739/path---index-6a9-d010KQrlnfstMdNr9uet3nQH2E",
-    "test-2-282": "763/path---test-2-282-8c9-YgV6PMucCfm5UqFLltIiArHr58",
-    "apple-1f3": "882/path---apple-1-f-3-e0b-YgV6PMucCfm5UqFLltIiArHr58",
-    "test-3-2b6": "879/path---test-3-2-b-6-e03-YgV6PMucCfm5UqFLltIiArHr58",
-    "test-3-05d": "129/path---test-3-05-d-143-YgV6PMucCfm5UqFLltIiArHr58",
-    "apple-a69": "589/path---apple-a-69-3b7-YgV6PMucCfm5UqFLltIiArHr58",
-    "test-2-aaf": "746/path---test-2-aaf-80c-YgV6PMucCfm5UqFLltIiArHr58",
     "fake-story-2-3ae": "788/path---fake-story-2-3-ae-92b-NZV1I194wdkA61zl08GOrNQ4",
-    "fake-story-1-564": "414/path---fake-story-1-564-bb6-eb3l0rTmPGGWordIHIyu0vi4GQ",
-    "fake-story-3-52a": "513/path---fake-story-3-52-a-029-5SjG2LdU3uSC57JYivHeJazUwU0"
+    "fake-story-3-52a": "183/path---fake-story-3-52-a-029-q6GITXLU7IZRNW9Sk1NpGyuP6U",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "fake-story-1-564": "417/path---fake-story-1-564-bb6-LRlpmgcKDFuDwr9WHdDTwq5YGUM",
+    "index": "633/path---index-6a9-cR2rMQesEwVJfbynXyv0KN7YJ8"
   },
   "components": {
     "/Users/Rurka/dxrs/src/templates/blogTemplate.js": {
