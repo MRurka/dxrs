@@ -1,8 +1,10 @@
 ---
-title: Hilda Cheung
+first: Hilda
+nickname: Badass
+last: Cheung
 path: /fake-story-1
 date: 2018-11-06T03:40:20.403Z
-image: /assets/screen-shot-2018-11-21-at-14.49.29.jpg
+thumbnail: /assets/screen-shot-2018-11-21-at-14.49.29.jpg
 ---
 **What was your role at TWG?**
 
