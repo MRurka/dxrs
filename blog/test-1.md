@@ -1,7 +1,5 @@
 ---
-first: Hilda
-nickname: Badass
-last: Cheung
+title: ' kjdwnjkdawjnkadwjkn'
 path: /fake-story-1
 date: 2018-11-06T03:40:20.403Z
 thumbnail: /assets/screen-shot-2018-11-21-at-14.49.29.jpg
