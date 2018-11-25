@@ -1,8 +1,11 @@
 ---
 title: Selena Huang
+first: Selena
+nickname: Gomez
+last: Hunang
 path: /fake-story-3
 date: 2018-11-06T07:42:29.956Z
-image: /assets/screen-shot-2018-11-21-at-14.50.35.jpg
+thumbnail: /assets/screen-shot-2018-11-21-at-14.50.35.jpg
 ---
 **What was your role at TWG?**
 
