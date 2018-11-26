@@ -1,11 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
-import "./post-link.scss"
+import "./index-item.scss"
 import IconArrow from "../components/icon-arrow.js"
 
 const PostLink = ({ post }) => (
 
-  <div className="post" style={{backgroundImage: "url(" + post.frontmatter.thumbnail + ")" }}>
+  <div className="index-item" style={{backgroundImage: "url(" + post.frontmatter.thumbnail + ")" }}>
     <h1>
       {post.frontmatter.first}
       <span>{post.frontmatter.nickname}</span>
@@ -14,7 +14,7 @@ const PostLink = ({ post }) => (
     <div>
       {post.frontmatter.description}
     </div>
-    <Link className="post-link" to={post.frontmatter.path}>
+    <Link className="index-item-link" to={post.frontmatter.path}>
       <IconArrow></IconArrow>
     </Link>
   </div>

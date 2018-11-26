@@ -1,4 +1,5 @@
-.post-link-container {
+// Flexbox Columns
+.index-container {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -7,7 +8,7 @@
     height: auto;
   }
 }
-.post {
+.index-item {
   background-size: cover;
   background-position: center;
   &:nth-child(1n) {
