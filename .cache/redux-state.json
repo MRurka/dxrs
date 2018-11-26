@@ -1568,12 +1568,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-26T04:56:29.202Z",
+      "buildTime": "2018-11-26T04:59:54.298Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "74ccfb33b2242134befee3cfb1705e35",
+        "contentDigest": "e42dbd0404801d24a65c1e04397af669",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1583,7 +1583,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d1ded33e74124589eba686f792f04bb7",
+        "contentDigest": "be685266a8728faadbc2aa5862555db1",
         "type": "Directory",
         "description": "Directory \"blog\"",
         "owner": "gatsby-source-filesystem"
@@ -1594,9 +1594,9 @@
       "extension": "",
       "size": 204,
       "prettySize": "204 B",
-      "modifiedTime": "2018-11-26T04:50:10.000Z",
-      "accessTime": "2018-11-26T04:56:36.000Z",
-      "changeTime": "2018-11-26T04:50:10.000Z",
+      "modifiedTime": "2018-11-26T04:58:47.000Z",
+      "accessTime": "2018-11-26T04:59:59.000Z",
+      "changeTime": "2018-11-26T04:58:47.000Z",
       "birthTime": "2018-11-06T04:10:23.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs",
@@ -1613,13 +1613,13 @@
       "blksize": 4096,
       "ino": 175945237,
       "blocks": 0,
-      "atimeMs": 1543208196000,
-      "mtimeMs": 1543207810000,
-      "ctimeMs": 1543207810000,
+      "atimeMs": 1543208399000,
+      "mtimeMs": 1543208327000,
+      "ctimeMs": 1543208327000,
       "birthtimeMs": 1541477423000,
-      "atime": "2018-11-26T04:56:36.000Z",
-      "mtime": "2018-11-26T04:50:10.000Z",
-      "ctime": "2018-11-26T04:50:10.000Z",
+      "atime": "2018-11-26T04:59:59.000Z",
+      "mtime": "2018-11-26T04:58:47.000Z",
+      "ctime": "2018-11-26T04:58:47.000Z",
       "birthtime": "2018-11-06T04:10:23.000Z"
     },
     "b0ec4fc6-518a-5e77-bcbb-72856af2b291": {
@@ -1782,10 +1782,10 @@
       "extension": "md",
       "size": 3642,
       "prettySize": "3.64 kB",
-      "modifiedTime": "2018-11-26T04:57:11.000Z",
-      "accessTime": "2018-11-26T04:57:11.000Z",
-      "changeTime": "2018-11-26T04:57:11.000Z",
-      "birthTime": "2018-11-26T04:57:11.000Z",
+      "modifiedTime": "2018-11-26T04:58:47.000Z",
+      "accessTime": "2018-11-26T04:58:48.000Z",
+      "changeTime": "2018-11-26T04:58:47.000Z",
+      "birthTime": "2018-11-26T04:58:47.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/blog",
       "base": "test-3.md",
@@ -1799,16 +1799,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 176283860,
+      "ino": 176284020,
       "blocks": 8,
-      "atimeMs": 1543208231000,
-      "mtimeMs": 1543208231000,
-      "ctimeMs": 1543208231000,
-      "birthtimeMs": 1543208231000,
-      "atime": "2018-11-26T04:57:11.000Z",
-      "mtime": "2018-11-26T04:57:11.000Z",
-      "ctime": "2018-11-26T04:57:11.000Z",
-      "birthtime": "2018-11-26T04:57:11.000Z"
+      "atimeMs": 1543208328000,
+      "mtimeMs": 1543208327000,
+      "ctimeMs": 1543208327000,
+      "birthtimeMs": 1543208327000,
+      "atime": "2018-11-26T04:58:48.000Z",
+      "mtime": "2018-11-26T04:58:47.000Z",
+      "ctime": "2018-11-26T04:58:47.000Z",
+      "birthtime": "2018-11-26T04:58:47.000Z"
     },
     "c7f6b30d-28c9-5319-a895-fd86269356c1": {
       "id": "c7f6b30d-28c9-5319-a895-fd86269356c1",
@@ -1887,7 +1887,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "78974a704ba45e4689005701fa8b9195",
+        "contentDigest": "95fc14802b9988a509451b4f8ec935d3",
         "type": "Directory",
         "description": "Directory \"static/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -1899,7 +1899,7 @@
       "size": 306,
       "prettySize": "306 B",
       "modifiedTime": "2018-11-26T04:46:28.000Z",
-      "accessTime": "2018-11-26T04:56:36.000Z",
+      "accessTime": "2018-11-26T04:59:59.000Z",
       "changeTime": "2018-11-26T04:46:28.000Z",
       "birthTime": "2018-11-06T08:08:21.000Z",
       "root": "/",
@@ -1917,11 +1917,11 @@
       "blksize": 4096,
       "ino": 175967506,
       "blocks": 0,
-      "atimeMs": 1543208196000,
+      "atimeMs": 1543208399000,
       "mtimeMs": 1543207588000,
       "ctimeMs": 1543207588000,
       "birthtimeMs": 1541491701000,
-      "atime": "2018-11-26T04:56:36.000Z",
+      "atime": "2018-11-26T04:59:59.000Z",
       "mtime": "2018-11-26T04:46:28.000Z",
       "ctime": "2018-11-26T04:46:28.000Z",
       "birthtime": "2018-11-06T08:08:21.000Z"
@@ -2306,7 +2306,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7647c41db6e599283d20071f9a68a290",
+        "contentDigest": "f348cbca876953f34605523b2be07829",
         "type": "Directory",
         "description": "Directory \"src/content\"",
         "owner": "gatsby-source-filesystem"
@@ -2318,7 +2318,7 @@
       "size": 68,
       "prettySize": "68 B",
       "modifiedTime": "2018-11-25T10:54:21.000Z",
-      "accessTime": "2018-11-26T04:56:36.000Z",
+      "accessTime": "2018-11-26T04:59:59.000Z",
       "changeTime": "2018-11-25T10:54:21.000Z",
       "birthTime": "2018-11-25T10:54:21.000Z",
       "root": "/",
@@ -2336,14 +2336,39 @@
       "blksize": 4096,
       "ino": 176243710,
       "blocks": 0,
-      "atimeMs": 1543208196000,
+      "atimeMs": 1543208399000,
       "mtimeMs": 1543143261000,
       "ctimeMs": 1543143261000,
       "birthtimeMs": 1543143261000,
-      "atime": "2018-11-26T04:56:36.000Z",
+      "atime": "2018-11-26T04:59:59.000Z",
       "mtime": "2018-11-25T10:54:21.000Z",
       "ctime": "2018-11-25T10:54:21.000Z",
       "birthtime": "2018-11-25T10:54:21.000Z"
+    },
+    "8bf6e096-e795-5edb-93f7-8ee1de97436b": {
+      "id": "8bf6e096-e795-5edb-93f7-8ee1de97436b",
+      "children": [],
+      "parent": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
+      "internal": {
+        "content": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\nTest. Hopefully this posts to \\`dev\\` branch.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "c251bc3b6cd9618e6b87c661ba58abe5",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Selena Huang",
+        "subtitle": "Strength and triumph over the imposter inside.",
+        "first": "Selena",
+        "nickname": "Gomez",
+        "last": "Hunang",
+        "path": "/fake-story-3",
+        "date": "2018-11-06T07:42:29.956Z",
+        "thumbnail": "/assets/screen-shot-2018-11-21-at-14.50.35.jpg",
+        "_PARENT": "4d08a988-8839-5b5a-9f67-603d5d46ba0a"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\nTest. Hopefully this posts to \\`dev\\` branch.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-3.md"
     },
     "SitePage /something-else": {
       "jsonName": "something-else-50b",
@@ -2445,30 +2470,154 @@
         "owner": "internal-data-bridge"
       }
     },
-    "8bf6e096-e795-5edb-93f7-8ee1de97436b": {
-      "id": "8bf6e096-e795-5edb-93f7-8ee1de97436b",
-      "children": [],
-      "parent": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
+    "ad15c230-60c6-5c8f-b948-7159992d2135": {
+      "id": "ad15c230-60c6-5c8f-b948-7159992d2135",
+      "children": [
+        "b2e92173-ddc4-52f9-9c0c-c088d3de3960"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\nTest. Hopefully this posts to \\`dev\\` branch.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+        "contentDigest": "c7f627744a32e6718cba558e293b93cf",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"blog/test.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/Rurka/dxrs/blog/test.md",
+      "relativePath": "test.md",
+      "extension": "md",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-11-26T05:10:30.000Z",
+      "accessTime": "2018-11-26T05:10:30.000Z",
+      "changeTime": "2018-11-26T05:10:30.000Z",
+      "birthTime": "2018-11-26T05:10:30.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/blog",
+      "base": "test.md",
+      "ext": ".md",
+      "name": "test",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 176284655,
+      "blocks": 8,
+      "atimeMs": 1543209030000,
+      "mtimeMs": 1543209030000,
+      "ctimeMs": 1543209030000,
+      "birthtimeMs": 1543209030000,
+      "atime": "2018-11-26T05:10:30.000Z",
+      "mtime": "2018-11-26T05:10:30.000Z",
+      "ctime": "2018-11-26T05:10:30.000Z",
+      "birthtime": "2018-11-26T05:10:30.000Z"
+    },
+    "2e9db60d-9d4d-5064-b2d3-005f349fe6d6": {
+      "id": "2e9db60d-9d4d-5064-b2d3-005f349fe6d6",
+      "children": [
+        "15acee3d-55e3-5a6e-a017-fd57560aa363"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "31814cd283a861a4f10497488dbe21b7",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"static/assets/screen-shot-2018-10-20-at-09.47.56.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/Rurka/dxrs/static/assets/screen-shot-2018-10-20-at-09.47.56.jpg",
+      "relativePath": "screen-shot-2018-10-20-at-09.47.56.jpg",
+      "extension": "jpg",
+      "size": 67749,
+      "prettySize": "67.7 kB",
+      "modifiedTime": "2018-11-26T05:10:30.000Z",
+      "accessTime": "2018-11-26T05:10:30.000Z",
+      "changeTime": "2018-11-26T05:10:30.000Z",
+      "birthTime": "2018-11-26T05:10:30.000Z",
+      "root": "/",
+      "dir": "/Users/Rurka/dxrs/static/assets",
+      "base": "screen-shot-2018-10-20-at-09.47.56.jpg",
+      "ext": ".jpg",
+      "name": "screen-shot-2018-10-20-at-09.47.56",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 176284656,
+      "blocks": 136,
+      "atimeMs": 1543209030000,
+      "mtimeMs": 1543209030000,
+      "ctimeMs": 1543209030000,
+      "birthtimeMs": 1543209030000,
+      "atime": "2018-11-26T05:10:30.000Z",
+      "mtime": "2018-11-26T05:10:30.000Z",
+      "ctime": "2018-11-26T05:10:30.000Z",
+      "birthtime": "2018-11-26T05:10:30.000Z"
+    },
+    "15acee3d-55e3-5a6e-a017-fd57560aa363": {
+      "id": "15acee3d-55e3-5a6e-a017-fd57560aa363",
+      "children": [],
+      "parent": "2e9db60d-9d4d-5064-b2d3-005f349fe6d6",
+      "internal": {
+        "contentDigest": "31814cd283a861a4f10497488dbe21b7",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "b2e92173-ddc4-52f9-9c0c-c088d3de3960": {
+      "id": "b2e92173-ddc4-52f9-9c0c-c088d3de3960",
+      "children": [],
+      "parent": "ad15c230-60c6-5c8f-b948-7159992d2135",
+      "internal": {
+        "content": "jnkhgfcdxgchjkl\n",
         "type": "MarkdownRemark",
-        "contentDigest": "c251bc3b6cd9618e6b87c661ba58abe5",
+        "contentDigest": "04f883946a18f3c6bc40dd482ec2906f",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "Selena Huang",
-        "subtitle": "Strength and triumph over the imposter inside.",
-        "first": "Selena",
-        "nickname": "Gomez",
-        "last": "Hunang",
-        "path": "/fake-story-3",
-        "date": "2018-11-06T07:42:29.956Z",
-        "thumbnail": "/assets/screen-shot-2018-11-21-at-14.50.35.jpg",
-        "_PARENT": "4d08a988-8839-5b5a-9f67-603d5d46ba0a"
+        "title": "test",
+        "subtitle": "test",
+        "first": "test",
+        "nickname": "test",
+        "last": "test",
+        "path": "/dnahjwadhjkw",
+        "date": "2018-11-26T05:01:04.364Z",
+        "thumbnail": "/assets/screen-shot-2018-10-20-at-09.47.56.jpg",
+        "_PARENT": "ad15c230-60c6-5c8f-b948-7159992d2135"
       },
       "excerpt": "",
-      "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\nTest. Hopefully this posts to \\`dev\\` branch.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
-      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-3.md"
+      "rawMarkdownBody": "jnkhgfcdxgchjkl\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test.md"
+    },
+    "SitePage /dnahjwadhjkw": {
+      "jsonName": "dnahjwadhjkw-c15",
+      "internalComponentName": "ComponentDnahjwadhjkw",
+      "path": "/dnahjwadhjkw",
+      "component": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Rurka/dxrs/src/templates/blogTemplate.js",
+      "id": "SitePage /dnahjwadhjkw",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "044f5b9fd33537b03f5032ddef487995",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -2488,12 +2637,16 @@
       ],
       "c7f6b30d-28c9-5319-a895-fd86269356c1": [
         "/fake-story-1"
+      ],
+      "b2e92173-ddc4-52f9-9c0c-c088d3de3960": [
+        "/dnahjwadhjkw"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
-        "/"
+        "/",
+        null
       ]
     }
   },
@@ -2502,8 +2655,9 @@
     "fake-story-3-52a": "939/path---fake-story-3-52-a-029-lXLfwSZJgAJjzBdrosDxDEbuQ",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "fake-story-1-564": "307/path---fake-story-1-564-bb6-hpxMBFjzIJeCVXI9BJINMAKRc",
-    "index": "150/path---index-6a9-q2aep6SS5xbECedkIzLhpEqKe8",
-    "something-else-50b": "576/path---something-else-50-b-ed4-D8TN4wHPlJJKaiQZpsy9wDT8Q0"
+    "index": "405/path---index-6a9-VVzGvrRdtwujXqndkapcYlRHME",
+    "something-else-50b": "576/path---something-else-50-b-ed4-D8TN4wHPlJJKaiQZpsy9wDT8Q0",
+    "dnahjwadhjkw-c15": "825/path---dnahjwadhjkw-c-15-5f1-4hFqHcbi0EgFgchgmlrGo7P6tk"
   },
   "components": {
     "/Users/Rurka/dxrs/src/templates/blogTemplate.js": {
