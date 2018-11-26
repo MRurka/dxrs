@@ -1770,7 +1770,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e1301e22f8fc2e603aabd62c2a4d4b54",
+        "contentDigest": "c42e852962403eecca8605c93bfaa61d",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"blog/test-3.md\"",
@@ -1780,12 +1780,12 @@
       "absolutePath": "/Users/Rurka/dxrs/blog/test-3.md",
       "relativePath": "test-3.md",
       "extension": "md",
-      "size": 3538,
-      "prettySize": "3.54 kB",
-      "modifiedTime": "2018-11-25T11:07:13.000Z",
-      "accessTime": "2018-11-26T04:03:20.000Z",
-      "changeTime": "2018-11-25T11:07:13.000Z",
-      "birthTime": "2018-11-25T11:07:13.000Z",
+      "size": 3595,
+      "prettySize": "3.6 kB",
+      "modifiedTime": "2018-11-26T04:45:07.000Z",
+      "accessTime": "2018-11-26T04:45:07.000Z",
+      "changeTime": "2018-11-26T04:45:07.000Z",
+      "birthTime": "2018-11-26T04:45:07.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/blog",
       "base": "test-3.md",
@@ -1799,16 +1799,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 176244755,
+      "ino": 176282651,
       "blocks": 8,
-      "atimeMs": 1543205000000,
-      "mtimeMs": 1543144033000,
-      "ctimeMs": 1543144033000,
-      "birthtimeMs": 1543144033000,
-      "atime": "2018-11-26T04:03:20.000Z",
-      "mtime": "2018-11-25T11:07:13.000Z",
-      "ctime": "2018-11-25T11:07:13.000Z",
-      "birthtime": "2018-11-25T11:07:13.000Z"
+      "atimeMs": 1543207507000,
+      "mtimeMs": 1543207507000,
+      "ctimeMs": 1543207507000,
+      "birthtimeMs": 1543207507000,
+      "atime": "2018-11-26T04:45:07.000Z",
+      "mtime": "2018-11-26T04:45:07.000Z",
+      "ctime": "2018-11-26T04:45:07.000Z",
+      "birthtime": "2018-11-26T04:45:07.000Z"
     },
     "a618423e-0f73-5c14-a374-7ff79a658aa7": {
       "id": "a618423e-0f73-5c14-a374-7ff79a658aa7",
@@ -1857,30 +1857,6 @@
       "excerpt": "",
       "rawMarkdownBody": "dwa\n",
       "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-2.md"
-    },
-    "8bf6e096-e795-5edb-93f7-8ee1de97436b": {
-      "id": "8bf6e096-e795-5edb-93f7-8ee1de97436b",
-      "children": [],
-      "parent": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
-      "internal": {
-        "content": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "f94d3f88309c083902bcdefd16b3f0b6",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Selena Huang",
-        "first": "Selena",
-        "nickname": "Gomez",
-        "last": "Hunang",
-        "path": "/fake-story-3",
-        "date": "2018-11-06T07:42:29.956Z",
-        "thumbnail": "/assets/screen-shot-2018-11-21-at-14.50.35.jpg",
-        "_PARENT": "4d08a988-8839-5b5a-9f67-603d5d46ba0a"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
-      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-3.md"
     },
     "23e0df02-127f-5482-a1d3-ed9a5e8abd95": {
       "id": "23e0df02-127f-5482-a1d3-ed9a5e8abd95",
@@ -1988,10 +1964,10 @@
       "extension": "svg",
       "size": 1106,
       "prettySize": "1.11 kB",
-      "modifiedTime": "2018-11-21T07:21:44.000Z",
-      "accessTime": "2018-11-26T04:03:20.000Z",
-      "changeTime": "2018-11-21T07:21:44.000Z",
-      "birthTime": "2018-11-21T07:21:44.000Z",
+      "modifiedTime": "2018-11-26T04:45:01.000Z",
+      "accessTime": "2018-11-26T04:45:01.000Z",
+      "changeTime": "2018-11-26T04:45:01.000Z",
+      "birthTime": "2018-11-26T04:45:01.000Z",
       "root": "/",
       "dir": "/Users/Rurka/dxrs/static/assets",
       "base": "icon-arrow-white-right.svg",
@@ -2005,16 +1981,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 176221345,
+      "ino": 176282637,
       "blocks": 8,
-      "atimeMs": 1543205000000,
-      "mtimeMs": 1542784904000,
-      "ctimeMs": 1542784904000,
-      "birthtimeMs": 1542784904000,
-      "atime": "2018-11-26T04:03:20.000Z",
-      "mtime": "2018-11-21T07:21:44.000Z",
-      "ctime": "2018-11-21T07:21:44.000Z",
-      "birthtime": "2018-11-21T07:21:44.000Z"
+      "atimeMs": 1543207501000,
+      "mtimeMs": 1543207501000,
+      "ctimeMs": 1543207501000,
+      "birthtimeMs": 1543207501000,
+      "atime": "2018-11-26T04:45:01.000Z",
+      "mtime": "2018-11-26T04:45:01.000Z",
+      "ctime": "2018-11-26T04:45:01.000Z",
+      "birthtime": "2018-11-26T04:45:01.000Z"
     },
     "cfad9d38-1408-54ac-bbe2-9b4ce167afae": {
       "id": "cfad9d38-1408-54ac-bbe2-9b4ce167afae",
@@ -2468,6 +2444,31 @@
       "excerpt": "",
       "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n![mountains](/assets/screen-shot-2018-10-13-at-18.05.53.jpg)\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
       "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-1.md"
+    },
+    "8bf6e096-e795-5edb-93f7-8ee1de97436b": {
+      "id": "8bf6e096-e795-5edb-93f7-8ee1de97436b",
+      "children": [],
+      "parent": "4d08a988-8839-5b5a-9f67-603d5d46ba0a",
+      "internal": {
+        "content": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "e40b7f9c4fa2381dcfab2f30a4731e1c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Selena Huang",
+        "subtitle": "Strength and triumph over the imposter inside.",
+        "first": "Selena",
+        "nickname": "Gomez",
+        "last": "Hunang",
+        "path": "/fake-story-3",
+        "date": "2018-11-06T07:42:29.956Z",
+        "thumbnail": "/assets/screen-shot-2018-11-21-at-14.50.35.jpg",
+        "_PARENT": "4d08a988-8839-5b5a-9f67-603d5d46ba0a"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "**What was your role at TWG?**\n\nAt TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.\n\n**What do you do now, at League?**\n\nGiven that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.\n\n**What did you design for companies like Wealthsimple that have their own design team?**\n\nWhen I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.\n\n**Why did you do that?**\n\nI worked in Public Relations and ran my own Graphic Design studio before breaking into Product Design. TWG was where I built my career in Product, in many ways. Before landing my first role, I went to HackerYou for a front-end development bootcamp. This was before they had UX-focused bootcamps at schools like Bitmaker or Brainstation.\n\n**What would you say is the best way for someone to transition from traditional graphic design to a more UX and research-focused role?**\n\nI’ve been asked this so many times that I’ve written a Medium post about this exact transition. I think these emerging bootcamps are a quick and easy way to pivot from graphic design to UX design. You come out at the end with an understanding of the design process, and a few portfolio pieces you can use to sell yourself and show your skills. Having browsed through hundreds of design portfolios, (many from recent grads) I’ve found that on top of your portfolio, you need an edge to convince a hiring manager that they should hire you.\n",
+      "fileAbsolutePath": "/Users/Rurka/dxrs/blog/test-3.md"
     }
   },
   "status": {
