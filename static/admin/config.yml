@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: MRurka/dxrs
+  branch: dev
 
 media_folder: static/assets
 public_folder: assets
@@ -12,6 +13,7 @@ collections:
     create: true
     fields:
       - { name: title,      label: Title }
+      - { name: subtitle,   label: Subtitle }
       - { name: first,      label: First Name }
       - { name: nickname,   label: Nickname }
       - { name: last,       label: Last Name }
