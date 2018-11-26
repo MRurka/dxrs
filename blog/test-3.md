@@ -1,5 +1,6 @@
 ---
 title: Selena Huang
+subtitle: Strength and triumph over the imposter inside.
 first: Selena
 nickname: Gomez
 last: Hunang
