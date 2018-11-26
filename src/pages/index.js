@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import PostLink from "../components/post-link"
+import PostLink from "../components/index-item"
 import "./reset.scss"
 
 const IndexPage = ({
@@ -13,7 +13,7 @@ const IndexPage = ({
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
-    <div className="post-link-container">
+    <div className="index-container">
       {Posts}
     </div>
   )

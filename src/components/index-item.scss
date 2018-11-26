@@ -1,0 +1,59 @@
+//
+// Item layout
+//
+.index-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 70vh;
+  @media only screen and (max-width: 375px) {
+    height: auto;
+  }
+  .index-item {
+    background-size: cover;
+    background-position: center;
+    &:nth-child(1n) {
+      height: 70vh;
+    }
+    &:nth-child(2n),
+    &:nth-child(3n) {
+      height: 35vh;
+      @media only screen and (max-width: 375px) {
+        height: 70vh;
+      }
+    }
+  }
+}
+
+//
+// Item inner layout
+//
+.index-item {
+  padding: 1rem;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  // item button link
+  .index-item-title {
+
+  }
+  .index-item-link {
+
+  }
+}
+
+//
+// Item heading styling
+//
+.index-item-title {
+  font-size: 2rem;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.2em;
+  span {
+    color: #fff;
+    display: block;
+  }
+  span.accent {
+    color: #FF668B;
+  }
+}
