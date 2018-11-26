@@ -1,3 +1,5 @@
+@import "../mixins/background-gradient.scss";
+
 //
 // Item layout
 //
@@ -29,31 +31,56 @@
 // Item inner layout
 //
 .index-item {
-  padding: 1rem;
+  padding: 1.5rem;
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
-  // item button link
-  .index-item-title {
-
-  }
-  .index-item-link {
-
-  }
 }
 
 //
-// Item heading styling
+// Item title styling
 //
 .index-item-title {
-  font-size: 2rem;
+  font-size: 2.4rem;
   font-family: Helvetica, Arial, sans-serif;
-  line-height: 1.2em;
+  line-height: 1.1em;
+  font-weight: 600;
   span {
     color: #fff;
     display: block;
   }
   span.accent {
     color: #FF668B;
+  }
+}
+
+//
+// Item subtitle styling
+//
+.index-item-subtitle {
+  color: white;
+  font-family: helvetica;
+  font-weight: 200;
+  line-height: 1.4em;
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+  padding-right: 0.5rem;
+}
+
+//
+// Item content gradient
+//
+.index-item {
+  position: relative;
+  z-index: -2;
+  &::after {
+    content: "";
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    height: 50%;
+    position: absolute;
+    @include background-gradient(rgba(0,0,0,0), rgba(0,0,0,0.65), vertical);
   }
 }
