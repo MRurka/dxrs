@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import PostLink from "../components/post-link"
+import "./reset.scss"
 
 const IndexPage = ({
   data: {
@@ -30,8 +31,10 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             path
-            title
-            image
+            first
+            nickname
+            last
+            thumbnail
           }
         }
       }

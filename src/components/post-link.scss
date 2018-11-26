@@ -1,20 +1,23 @@
 .post-link-container {
-  height: 300px;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  height: 70vh;
+  @media only screen and (max-width: 375px) {
+    height: auto;
+  }
 }
 .post-link {
-  border: 1px solid brown;
-  background: tan;
-  width: 50%;
   background-size: cover;
+  background-position: center;
   &:nth-child(1n) {
-    height: 300px;
+    height: 70vh;
   }
   &:nth-child(2n),
   &:nth-child(3n) {
-    height: 150px;
-    flex: 1;
+    height: 35vh;
+    @media only screen and (max-width: 375px) {
+      height: 70vh;
+    }
   }
 }

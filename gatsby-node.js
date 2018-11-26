@@ -35,6 +35,7 @@ exports.createPages = ({ actions, graphql }) => {
   })
 }
 
+// Images tutorial told me to put this here.. but not sure what it does and only throws errors. Keep just in case.
 // exports.onCreateNode = ({ node, actions, getNode }) => {
 //   fmImagesToRelative(node)
 // }
