@@ -18,6 +18,8 @@ At TWG, I was a Senior Product Designer where I led design and research on clien
 
 Given that I’ve transitioned from design to management, my day looks very different than it did two months ago at TWG. A big chunk of my time is spent growing and managing our small (but mighty) team through hiring and professional development. I still work on feature improvements, testing our designs with users, and filling in the gaps where it’s needed. I’m loving the variety and sense of ownership of working alongside a small team with big dreams and huge growth potential.
 
+![](/assets/screen-shot-2018-11-27-at-18.00.08.jpg)
+
 ## What did you design for companies like Wealthsimple that have their own design team?
 
 When I was at TWG, Wealthsimple came to us to design and build their new product lines- this allowed their team to maintain and grow their core platform. They wanted to create a product for workplaces to create RRSP plans for their employees, and Wealthsimple for Work was born. Our team worked on the first iteration of that product, and another one called Wealthsimple for Advisors, which I designed. This product was for traditional financial advisors like Edward Jones or other financial planners to manage their clients using Wealthsimple. For example, as a user you would have a Wealthsimple portfolio, but if you were looking for a more high-touch approach to robo investing, you could bring on a financial advisor to manage that portfolio. As an advisor, the product helped you focus on building relationships with your clients. As the client, you would be sent notifications when you’ve reached goals, reminders that RRSP season is coming up, or have tailored sessions with an advisor where you could set financial goals.
