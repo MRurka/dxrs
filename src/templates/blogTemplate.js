@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import "../layout/module.scss"
-import PostLink from "../components/index-item"
+import "./blogTemplate.scss"
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -9,20 +9,26 @@ export default function Template({
   const { markdownRemark } = data // data.markdownRemark holds our post data
   const { frontmatter, html } = markdownRemark
   return (
-    <div className="blog-post-container">
-      <div className="blog-post">
-        <h1 className="index-item-title">
-          <span>{frontmatter.first}</span>
-          <span className="accent">{frontmatter.nickname}</span>
-          <span>{frontmatter.last}</span>
-        </h1>
-        <div className="index-item-subtitle">
-          {frontmatter.subtitle}
+    <div className="blog-post">
+      <div className="blog-post-header" style={{backgroundImage: "url(" + frontmatter.thumbnail + ")" }}>
+        <div className="container">
+          <h1 className="index-item-title">
+            <span>{frontmatter.first}</span>
+            <span className="accent">{frontmatter.nickname}</span>
+            <span>{frontmatter.last}</span>
+          </h1>
+          <div className="index-item-subtitle">
+            {frontmatter.subtitle}
+          </div>
         </div>
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
+      </div>
+      <div className="blog-post-body">
+        <div className="container">
+          <div className="big-name">
+            {frontmatter.first} on ...
+          </div>
+          <div dangerouslySetInnerHTML={{ __html: html }}/>
+        </div>
       </div>
     </div>
   )
