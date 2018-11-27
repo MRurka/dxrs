@@ -12,7 +12,7 @@ thumbnail: /assets/screen-shot-2018-11-21-at-14.50.35.jpg
 
 At TWG, I was a Senior Product Designer where I led design and research on client projects for companies like Wealthsimple, RBC, and World Vision. TWG is a software consultancy, so I was often working on multiple client projects across various industries. For example, I’d work for several months on a Fintech product for a client like Wealthsimple or RBC, and before I knew it I’d be designing a product for mental health professionals to track their clients’ meditation performance. Because our clients ran the gamut from high-growth startup to enterprise companies, I was exposed to a lot of different product challenges.
 
-
+![test image. ](/assets/screen-shot-2018-10-13-at-18.05.53.jpg)
 
 ## What do you do now, at League?
 
