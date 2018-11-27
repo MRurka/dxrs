@@ -14,6 +14,7 @@
     "gatsby-plugin-netlify-cms": "^3.0.7",
     "gatsby-plugin-sass": "^2.0.4",
     "gatsby-plugin-sharp": "^2.0.13",
+    "gatsby-plugin-typography": "^2.2.1",
     "gatsby-remark-images": "^2.0.6",
     "gatsby-remark-relative-images": "^0.2.0",
     "gatsby-source-filesystem": "^2.0.8",
@@ -22,7 +23,9 @@
     "netlify-cms": "^2.2.0",
     "node-sass": "^4.10.0",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react-dom": "^16.6.3",
+    "react-typography": "^0.16.13",
+    "typography": "^0.16.17"
   },
   "devDependencies": {
     "uglifyjs-webpack-plugin": "^2.0.1",

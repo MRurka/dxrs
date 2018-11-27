@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
+import "../layout/module.scss"
 import PostLink from "../components/index-item"
-import "./reset.scss"
 
 const IndexPage = ({
   data: {

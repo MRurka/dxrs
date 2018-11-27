@@ -23,10 +23,5 @@
         "componentChunkName": "component---src-templates-blog-template-js",
         "jsonName": "fake-story-3-52a",
         "path": "/fake-story-3"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "jsonName": "something-else-50b",
-        "path": "/something-else"
     }
 ]

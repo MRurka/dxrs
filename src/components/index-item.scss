@@ -1,28 +1,20 @@
-@import "../mixins/background-gradient.scss";
+@import "../layout/module.scss";
 
 //
 // Item layout
 //
 .index-container {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  height: 70vh;
-  @media only screen and (max-width: 375px) {
-    height: auto;
+  @include respond-above(sm) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
   }
   .index-item {
+    height: 80vh;
     background-size: cover;
     background-position: center;
-    &:nth-child(1n) {
-      height: 70vh;
-    }
-    &:nth-child(2n),
-    &:nth-child(3n) {
-      height: 35vh;
-      @media only screen and (max-width: 375px) {
-        height: 70vh;
-      }
+    @include respond-above(sm) {
+      flex-grow: 1;
     }
   }
 }
@@ -65,22 +57,4 @@
   margin-top: 0.5rem;
   font-size: 1.2rem;
   padding-right: 0.5rem;
-}
-
-//
-// Item content gradient
-//
-.index-item {
-  position: relative;
-  z-index: -2;
-  &::after {
-    content: "";
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-    height: 50%;
-    position: absolute;
-    @include background-gradient(rgba(0,0,0,0), rgba(0,0,0,0.65), vertical);
-  }
 }

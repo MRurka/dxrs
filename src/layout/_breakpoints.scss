@@ -1,0 +1,21 @@
+// Breakpoint variables
+$breakpoints: (
+  xs: 24em, // extra small
+  sm: 35em, // small
+  md: 55em, // middle
+  lg: 62em  // large
+);
+
+// Breakpoint mixins
+// Respond ABOVE x width
+@mixin respond-above($bp) {
+  @media screen and ( min-width: map-get($breakpoints, $bp) ) {
+    @content;
+  }
+}
+// Respond BELOW x width
+@mixin respond-below($bp) {
+  @media screen and ( max-width: map-get($breakpoints, $bp) ) {
+    @content;
+  }
+}

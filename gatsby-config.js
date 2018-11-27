@@ -3,6 +3,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-netlify-cms`,
     {
+      // Set directory for markdown files
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/blog/`,
@@ -23,6 +24,7 @@ module.exports = {
         name: 'content',
       },
     },
+    // transformer-sharp and plugin-sharp are necessary for processing images from the CMS
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -43,6 +45,7 @@ module.exports = {
       },
     },
   ],
+  // Website meta information
   siteMetadata: {
     title: "My Homepage",
     description: "This is where I write my thoughts.",
