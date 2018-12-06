@@ -7,7 +7,7 @@ first: Hilda
 nickname: Save Yourself
 last: Cheung
 path: /fake-story-1
-date: 2018-11-06T03:40:20.403Z
+date: 2018-11-08T03:40:20.403Z
 thumbnail: /assets/hilda-cheung.jpg
 banner: /assets/img_7446-x.jpg
 ---
