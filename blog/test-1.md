@@ -1,11 +1,15 @@
 ---
 title: Hilda title
+subtitle: >-
+  Passion for helping others overcome their eczema through mindfulness and
+  meditation. 
 first: Hilda
-nickname: Badass
+nickname: Save Yourself
 last: Cheung
 path: /fake-story-1
 date: 2018-11-06T03:40:20.403Z
-thumbnail: /assets/screen-shot-2018-11-21-at-14.49.29.jpg
+thumbnail: /assets/hilda-cheung.jpg
+banner: /assets/img_7446-x.jpg
 ---
 **What was your role at TWG?**
 
