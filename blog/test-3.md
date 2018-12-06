@@ -7,7 +7,7 @@ last: Rurka
 path: /fake-story-3
 date: 2018-11-14T07:42:29.956Z
 thumbnail: /assets/screen-shot-2018-12-06-at-14.15.39.jpg
-banner: /assets/screen-shot-2018-10-13-at-18.05.53.jpg
+banner: /assets/screen-shot-2018-12-06-at-14.15.39.jpg
 ---
 ## What was your role at TWG?
 
