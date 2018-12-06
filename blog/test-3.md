@@ -1,12 +1,13 @@
 ---
-title: Selena Huang
-subtitle: Strength and triumph over the imposter inside.
-first: Selena
-nickname: Gomez
-last: Hunang
+title: Def
+subtitle: I like parkour and swing dancing.
+first: Philip
+nickname: Uhhhh
+last: Rurka
 path: /fake-story-3
-date: 2018-11-06T07:42:29.956Z
-thumbnail: /assets/screen-shot-2018-11-21-at-14.50.35.jpg
+date: 2018-11-14T07:42:29.956Z
+thumbnail: /assets/screen-shot-2018-12-06-at-13.29.24.jpg
+banner: /assets/screen-shot-2018-12-06-at-13.29.24.jpg
 ---
 ## What was your role at TWG?
 
