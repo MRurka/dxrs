@@ -4,7 +4,7 @@
 //
 // Item layout
 //
-.index-container {
+.index-item-container {
   @include respond-above(sm) {
     display: flex;
     flex-wrap: wrap;
@@ -78,7 +78,7 @@
     display: block;
   }
   span.accent {
-    color: #FF668B;
+    color: $color-accent;
   }
 }
 
