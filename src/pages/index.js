@@ -1,7 +1,8 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql } from 'gatsby'
 import "../layout/module.scss"
 import PostLink from "../components/index-item"
+import HeroSection from "../components/hero.js"
 
 const IndexPage = ({
   data: {
@@ -13,8 +14,11 @@ const IndexPage = ({
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
-    <div className="index-container">
-      {Posts}
+    <div class="index-container">
+      <HeroSection></HeroSection>
+      <div className="index-item-container">
+        {Posts}
+      </div>
     </div>
   )
 }

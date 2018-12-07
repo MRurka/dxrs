@@ -1,0 +1,22 @@
+@import "../layout/module.scss";
+
+.background {
+  background-color: red;
+  height: 80vh;
+}
+.container {
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  .accent {
+    color: $color-accent;
+  }
+}
+.subtitle {
+
+}
