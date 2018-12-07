@@ -1,4 +1,11 @@
 module.exports = {
+
+  // Website meta information
+  siteMetadata: {
+    title: "My Homepage",
+    description: "This is where I write my thoughts.",
+  },
+
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-netlify-cms`,
@@ -48,9 +55,4 @@ module.exports = {
       },
     },
   ],
-  // Website meta information
-  siteMetadata: {
-    title: "My Homepage",
-    description: "This is where I write my thoughts.",
-  },
 }
