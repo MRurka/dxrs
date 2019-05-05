@@ -23,5 +23,10 @@
         "componentChunkName": "component---src-templates-blog-template-js",
         "jsonName": "fake-story-3-52a",
         "path": "/fake-story-3"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "jsonName": "how-to-wake-up-at-5-am-5bc",
+        "path": "/how-to-wake-up-at-5AM"
     }
 ]
