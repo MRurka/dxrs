@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 import "../layout/module.scss"
 import PostLink from "../components/index-item"
 import Header from "../components/header.js"
+import PageBlockOne from "../components/page-block-one.js"
 
 const IndexPage = ({
   data: {
@@ -16,6 +17,7 @@ const IndexPage = ({
   return (
     <div class="index-container">
       <Header></Header>
+      <PageBlockOne></PageBlockOne>
       <div className="index-item-container">
         {Posts}
       </div>

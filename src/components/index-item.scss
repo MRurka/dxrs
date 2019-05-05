@@ -5,6 +5,7 @@
 // Item layout
 //
 .index-item-container {
+  margin-top: 8rem;
   @include respond-above(sm) {
     display: flex;
     flex-wrap: wrap;
