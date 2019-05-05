@@ -6,7 +6,7 @@ nickname: Uhhhh
 last: Rurka
 path: /fake-story-3
 date: 2018-11-14T07:42:29.956Z
-thumbnail: /assets/screen-shot-2018-12-06-at-14.15.39.jpg
+thumbnail: /assets/8-step-success-framework-banner.jpg
 banner: /assets/screen-shot-2018-12-06-at-14.15.39.jpg
 ---
 ## What was your role at TWG?
