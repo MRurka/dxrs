@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from 'gatsby'
 import "../layout/module.scss"
 import PostLink from "../components/index-item"
-import HeroSection from "../components/hero.js"
+import Header from "../components/header.js"
 
 const IndexPage = ({
   data: {
@@ -15,7 +15,7 @@ const IndexPage = ({
 
   return (
     <div class="index-container">
-      <HeroSection></HeroSection>
+      <Header></Header>
       <div className="index-item-container">
         {Posts}
       </div>
