@@ -3,7 +3,7 @@ title: How To Wake Up At 5AM Every Day
 subtitle: >-
   Not a morning person? Here’s what’s worked for me over the years to help
   maintain a strong 5AM habit.
-path: how-to-wake-up-at-5AM
+path: /how-to-wake-up-at-5AM
 date: 2019-05-05T23:15:06.681Z
 thumbnail: /assets/screen-shot-2019-05-05-at-11.54.01.jpg
 banner: /assets/screen-shot-2019-05-05-at-11.54.01.jpg
