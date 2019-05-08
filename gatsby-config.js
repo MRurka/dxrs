@@ -50,12 +50,9 @@ module.exports = {
               linkImagesToOriginal: false,
               maxWidth: 900,
             },
-              // This makes gifs, pdfs and svgs properly link
-              resolve: 'gatsby-remark-copy-linked-files',
-              options: {
-                destinationDir: 'static',
-                ignoreFileExtensions: [],
-              },
+          },
+          {
+            resolve: `gatsby-remark-copy-images`,
           },
         ],
       },
