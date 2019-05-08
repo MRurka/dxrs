@@ -4,6 +4,7 @@ import "../layout/module.scss"
 import PostLink from "../components/index-item"
 import Header from "../components/header.js"
 import PageBlockOne from "../components/page-block-one.js"
+import Footer from "../components/footer.js"
 
 const IndexPage = ({
   data: {
@@ -21,6 +22,7 @@ const IndexPage = ({
       <div className="index-item-container">
         {Posts}
       </div>
+      <Footer></Footer>
     </div>
   )
 }
