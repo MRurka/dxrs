@@ -20,7 +20,9 @@ const IndexPage = ({
       <Header></Header>
       <PageBlockOne></PageBlockOne>
       <div className="index-item-container">
-        {Posts}
+        <div className="container">
+          {Posts}
+        </div>
       </div>
       <Footer></Footer>
     </div>
