@@ -70,19 +70,19 @@ The 5 Whys is a simple exercise that helps uncover the root of any particular st
 > **Initial statement:**
 > I have to wake up early.
 >
-> **Why do you have to wake up early?**  
+> **Why do you have to wake up early?**\
 > Because I have to workout.
 >
-> **Why do you have to workout?**  
+> **Why do you have to workout?**\
 > Because it increases my energy and reduces stress.
 >
-> **Why is high energy and low stress important?**  
+> **Why is high energy and low stress important?**\
 > Because it helps my productivity.
 >
-> **Why is it important to be productive?**  
+> **Why is it important to be productive?**\
 > Because there’s a lot I want to achieve, and I want to make an impact in the world.
 >
-> **Why is that important to you?**  
+> **Why is that important to you?**\
 > Because we live once. Let’s make the best of it.
 
 Et voila! Try it with any reason you come up with. This is an iterative process, don’t worry about getting it right the first time. Iterate. Iterate. Iterate.
@@ -191,7 +191,7 @@ Now, go and conquer your mornings.
 
 Thanks for read…
 
-![](/assets/billy-mays.png)
+![Billy Mays holding a latte at 5 AM in the morning, saying: But wait, there's more!](/assets/billy-mays-holding-latte-in-the-morning.png)
 
 # 🎉 Bonus tips
 
