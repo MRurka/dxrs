@@ -175,15 +175,15 @@ Next time you face your villainous self, have a real heart to heart. **I’m ser
 
 Here’s a sample of my mornings:
 
-> Me: Hey dude, we really have to get up.
+> **Me:** Hey dude, we really have to get up.
 >
-> Villain: What’s the point. I really don’t want to. It’s too comfortable.
+> **Villain:** What’s the point. I really don’t want to. It’s too comfortable.
 >
-> Me: Listen, I know how you feel. Honestly I don’t want to get up either. But this isn’t really a choice we have if we’re going achieve our potential. The marathon is coming up soon and we can’t jeopardize our goal. Besides, we talk so much game about being morning people.. we can’t let them down.
+> **Me:** Listen, I know how you feel. Honestly I don’t want to get up either. But this isn’t really a choice we have if we’re going achieve our potential. The marathon is coming up soon and we can’t jeopardize our goal. Besides, we talk so much game about being morning people.. we can’t let them down.
 >
-> Villain: Ughhhh. I know, I know. Fine. Let’s go.
+> **Villain:** Ughhhh. I know, I know. Fine. Let’s go.
 >
-> Me: Together — one limb at a time.
+> **Me:** Together — one limb at a time.
 
 Just like every day negotiations, empathy and compassion go a long way. It’s also important to use “we” instead of “you” to create a sense of co-dependancy.
 
