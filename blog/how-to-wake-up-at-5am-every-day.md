@@ -46,7 +46,7 @@ Know what else is crisp and fresh? Your brain. You’re able to think more clear
 
 The Early Morning Cocktail
 
-![](/assets/screen-shot-2019-05-05-at-19.21.48.jpg)
+![Refreshing cocktail with ice and orange zest on a table.](/assets/cocktail-with-ice-and-orange-zest.jpg)
 
 Early mornings consist of 2/3 reason and 1/3 strategy.
 
