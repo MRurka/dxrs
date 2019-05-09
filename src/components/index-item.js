@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 import styles from "./index-item.module.scss"
-import IconArrow from "../components/icon-arrow.js"
 
 const PostLink = ({ post }) => (
 
