@@ -151,7 +151,7 @@ So give it a go! Stay up till 2AM doing basically nothing, then wake up at 5AM. 
 
 # Situation #3 — No matter how motivated and prepared I am, everything goes out the window in the mornings …
 
-![](/assets/screen-shot-2019-05-08-at-20.44.11.jpg)
+![Cute koala nested between branches, sleeping upright.](/assets/koala-sleeping-between-branches.jpg)
 
 ## Reframe: My sleepy self is overpowering my awake self
 
