@@ -8,7 +8,7 @@ date: 2019-05-05T23:15:06.681Z
 thumbnail: /assets/screen-shot-2019-05-05-at-11.54.01.jpg
 banner: /assets/screen-shot-2019-05-05-at-11.54.01.jpg
 ---
-![](/assets/1_wwtdyeyuhj5omuyvzqqsbw.gif)
+![Animation of a woman in bed with a thought bubble saying: Please send help. ](/assets/woman-stuck-in-bed.gif)
 
 # I feel you
 
@@ -20,7 +20,7 @@ I’m going to share with you what’s worked for me over the years. I hope some
 
 Get ready to catch the worm 😎
 
-![](/assets/screen-shot-2019-05-05-at-19.19.19.jpg)
+![Man on a mountain during a morning sunrise, looking outward to the valley below and other mountains. ](/assets/back-view-of-man-on-mountain-sunrise.jpg)
 
 # But Why?
 
