@@ -67,28 +67,22 @@ No one builds a pyramid “just because” or sculpts David’s perfect body “
 
 The 5 Whys is a simple exercise that helps uncover the root of any particular statement. Let’s see how it works.
 
-> **Initial statement: **
->
+> **Initial statement:**
 > I have to wake up early.
 >
-> **Why do you have to wake up early? **
->
+> **Why do you have to wake up early?**
 > Because I have to workout.
 >
 > **Why do you have to workout?**
->
 > Because it increases my energy and reduces stress.
 >
-> **Why is high energy and low stress important? **
->
+> **Why is high energy and low stress important?**
 > Because it helps my productivity.
 >
-> **Why is it important to be productive? **
->
+> **Why is it important to be productive?**
 > Because there’s a lot I want to achieve, and I want to make an impact in the world.
 >
 > **Why is that important to you? **
->
 > Because we live once. Let’s make the best of it.
 
 Et voila! Try it with any reason you come up with. This is an iterative process, don’t worry about getting it right the first time. Iterate. Iterate. Iterate.
@@ -117,7 +111,7 @@ And that’s it! To show you how it works, I’ve reframed the following situati
 
 ![](/assets/screen-shot-2019-05-08-at-20.40.42.jpg)
 
-Reframe: My room is too cold
+## Reframe: My room is too cold
 
 The reason you’re blissfully cocooned in your bed is due to the temperature difference. So, turn up the heat! Or you can go the other extreme and overload with blankets so that you wake up in a heaping sweat. Pick your poison.
 
