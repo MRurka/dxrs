@@ -44,8 +44,6 @@ Know what else is crisp and fresh? Your brain. You’re able to think more clear
 
 👍
 
-
-
 The Early Morning Cocktail
 
 ![](/assets/screen-shot-2019-05-05-at-19.21.48.jpg)
@@ -64,8 +62,6 @@ Currently, why do you wake up at \_\_\_\_\_\__ AM?
 Probably because you have to. The key word here is have to. For your new routine to stick, your internal reason must be as strong than your { external reason.
 
 No one builds a pyramid “just because” or sculpts David’s perfect body “because I saw it in a magazine” (an analogy to your own body goals). Your reason must be meaningful.
-
-
 
 ## The 5 Whys
 
@@ -97,8 +93,6 @@ Because we live once. Let’s make the best of it.
 
 Et voila! Try it with any reason you come up with. This is an iterative process, don’t worry about getting it right the first time. Iterate. Iterate. Iterate.
 
-
-
 ## Tip: Keep it a secret 🙊
 
 Keeping my morning routines secret (what I do, and why) has been instrumental in building a long term habit. It’s similar to the effect of not talking about your goals until you’ve achieved them. Keeping it to yourself quickly weeds out any shallow reasons and only strengthens any meaningful reason.
@@ -120,3 +114,112 @@ Simply put, reframing is an exercise that helps uncover new opportunities by ide
 And that’s it! To show you how it works, I’ve reframed the following situations already, so sit back and relax 💅
 
 # Situation #1— But it’s just sooooo warm and cozy…
+
+![](/assets/screen-shot-2019-05-08-at-20.40.42.jpg)
+
+Reframe: My room is too cold
+
+The reason you’re blissfully cocooned in your bed is due to the temperature difference. So, turn up the heat! Or you can go the other extreme and overload with blankets so that you wake up in a heaping sweat. Pick your poison.
+
+During the winters months of San Francisco, I take out my little space heater to make sure my entire 100 sq. ft. room is warm and cozy. And before you grill me on SF winters — I’m Canadian, so I know what’s up 😏
+
+> But this will rack up my power bill …
+
+To which I say: Consider it an investment. If this allows you to build a strong foundation to your every morning, unlocking the powerhouse that you are, the cost will be negligible compared to potential returns 💰
+
+> But this will increase my carbon footprint …
+
+Priorities, fren. If you really feel bad about this, you can easily offset your guilt by eating a less meat or traveling a little less.
+
+Okay, moving on!
+
+# Situation #2— But I’m just too tired …
+
+![](/assets/screen-shot-2019-05-08-at-20.42.01.jpg)
+
+## Reframe: I’m not getting enough sleep
+
+The elegant solution here — also the least popular — is **going to bed early**. This is critical. Otherwise, you’re not really gaining anything by waking up early if you’re operating at 75% capacity throughout the whole day.
+
+## Key to success: Failure
+
+How many times have you started a new routine, fallen off the horse, only to try again **weeks** or **months** later? The downfall of many new routines is being too hard on ourselves when we fail.
+
+But if you go into it knowing you’re a flawed human being — it’s okay, we all are — you’ll be much more forgiving, and more likely to jump back on that horse! Simply being aware that you will fail to sleep early, will greatly increase your frequency of sleeping early.
+
+**True discipline** really comes down to how many times you keep trying. Routines are sustained by habits, and habits take months to solidify. So don’t get discouraged if you mess up in the first few days.
+
+## Forced Correction
+
+Here’s a trick to jump start your habit: No matter what time you go to sleep, make sure to wake up at the same time every day. It’s muuuuch easier to wake up at the same time every day, than to go to sleep at the same time every day. Those happy hours and Netflix releases are too unpredictable.
+
+So give it a go! Stay up till 2AM doing basically nothing, then wake up at 5AM. I guarantee you’ll think twice next time 😉
+
+# Situation #3 — No matter how motivated and prepared I am, everything goes out the window in the mornings …
+
+![](/assets/screen-shot-2019-05-08-at-20.44.11.jpg)
+
+## Reframe: My sleepy self is overpowering my awake self
+
+Stop me when this rings true: During the day, motivated and full of energy, you draft up the PERFECT morning routine. Even going to bed with a slight jitter of excitement, ready to take on the world! And then when it’s show time, your sleepy self — now in control — is like “LOL nice try”
+
+**This is your true villain** 😈 
+
+Your lazy, sleepy self.
+
+![](/assets/screen-shot-2019-05-08-at-20.45.09.jpg)
+
+## Plot twist
+
+Your villain is immortal — well, as much as you are. The truth is, whether you like it or not, your villain will exist within you forever. So you two better get along.
+
+P.s. For more on this, see [Carl Jung’s Shadow Self](https://en.wikipedia.org/wiki/Shadow_%28psychology%29) when you’re finished reading this 🙏
+
+## Negotiate
+
+Next time you face your villainous self, have a real heart to heart. **I’m serious.** Have a conversation with this person and work out your differences because deep down, you both want the same thing. It’s just one of you needs to be reminded sometimes.
+
+Here’s a sample of my mornings:
+
+> Me: Hey dude, we really have to get up.
+>
+> Villain: What’s the point. I really don’t want to. It’s too comfortable.
+>
+> Me: Listen, I know how you feel. Honestly I don’t want to get up either. But this isn’t really a choice we have if we’re going achieve our potential. The marathon is coming up soon and we can’t jeopardize our goal. Besides, we talk so much game about being morning people.. we can’t let them down.
+>
+> Villain: Ughhhh. I know, I know. Fine. Let’s go.
+>
+> Me: Together — one limb at a time.
+
+Just like every day negotiations, empathy and compassion go a long way. It’s also important to use “we” instead of “you” to create a sense of co-dependancy.
+
+Now, go and conquer your mornings.
+
+Thanks for read…
+
+![](/assets/billy-mays.png)
+
+# 🎉 Bonus tips
+
+## \#1 — Morning workouts
+
+Going for a run in the mornings? Make sure your shoes, shorts, socks, underwear & shirt are outstandingly convenient to access. I literally hang all of these on a coat rack by my door. Same goes for gym days. Prep that shit the night before.
+
+## \#2 — Getting creative with your alarm
+
+No one likes the infamous alarm screech. Have Alexa/Google Home wake you up with reminders instead. I have Alexa remind me _“Wake up you lazy ass. Your dreams are going to waste.”_
+
+Even better, record a custom message for yourself: _“Michael, I know you want to stay in bed, but you need to get up. Don’t put to waste the many years of cumulative work we’ve done for you. Pay it forward. Sincerely yours — Michael.”_
+
+# Fin
+
+If you found this helpful, please clap 👏 and share it with a friend in need 🙏
+
+Empires are built one stone at a time. Every morning is an opportunity to craft each of these stones to perfection.
+
+Settle for no less.
+
+Sincerely yours,\
+**Michael Rurka**
+
+Special thanks to Pong, Seiden, Eunice, Mahdi and Edison for the idea, proofing and supporting me along the way. All photos are from Unsplash (except the Mays one).
