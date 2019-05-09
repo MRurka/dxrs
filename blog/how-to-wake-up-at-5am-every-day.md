@@ -53,7 +53,7 @@ Early mornings consist of 2/3 reason and 1/3 strategy.
 * **Reason:** This is your foundation. We’ll explore a simple technique called the 5 Whys to help you dig deep and uncover your reason behind waking up early.
 * **Strategy:** Using a concept called Reframing, we’ll examine common excuses for staying in bed and look at new ways to overcome them.
 
-![](/assets/screen-shot-2019-05-05-at-19.25.34.jpg)
+![Egyptian pyramids and the statue of David](/assets/egyptian-pyramid-and-statue-of-david.jpg)
 
 # Your Reason
 
