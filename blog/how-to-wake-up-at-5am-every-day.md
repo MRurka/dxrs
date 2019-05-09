@@ -82,7 +82,7 @@ The 5 Whys is a simple exercise that helps uncover the root of any particular st
 > **Why is it important to be productive?**  
 > Because there’s a lot I want to achieve, and I want to make an impact in the world.
 >
-> **Why is that important to you? **  
+> **Why is that important to you?**  
 > Because we live once. Let’s make the best of it.
 
 Et voila! Try it with any reason you come up with. This is an iterative process, don’t worry about getting it right the first time. Iterate. Iterate. Iterate.
