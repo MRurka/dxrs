@@ -161,7 +161,7 @@ Stop me when this rings true: During the day, motivated and full of energy, you 
 
 Your lazy, sleepy self.
 
-![](/assets/screen-shot-2019-05-08-at-20.45.09.jpg)
+![A woman looking in the mirror. Her reflection is a demon with sharp teeth and pitch black eyes.](/assets/woman-looking-in-the-mirror-demon-reflection.jpg)
 
 ## Plot twist
 
