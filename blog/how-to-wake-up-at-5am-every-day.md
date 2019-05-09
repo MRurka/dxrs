@@ -93,7 +93,7 @@ Keeping my morning routines secret (what I do, and why) has been instrumental in
 
 Now, the fun part!
 
-![](/assets/1_ivvxuncexm_fcsjdcgvb9g.gif)
+![Woman slowly hiding her head under the blankets and shaking her head: No.](/assets/woman-slowly-hiding-her-head-under-blankets-and-shaking-her-head-no.gif)
 
 # Getting Out of Bed
 
