@@ -109,7 +109,7 @@ And that’s it! To show you how it works, I’ve reframed the following situati
 
 # Situation #1— But it’s just sooooo warm and cozy…
 
-![](/assets/screen-shot-2019-05-08-at-20.40.42.jpg)
+![Pug puppy wrapped up in blankets and looks filled with despair. ](/assets/pug-puppy-wrapped-up-in-blankets-looks-filled-with-despair.jpg)
 
 ## Reframe: My room is too cold
 
@@ -129,7 +129,7 @@ Okay, moving on!
 
 # Situation #2— But I’m just too tired …
 
-![](/assets/screen-shot-2019-05-08-at-20.42.01.jpg)
+![Kitten sleeping on its side, on fluffy blankets.](/assets/kitten-sleeping-on-its-side-on-a-bed.jpg)
 
 ## Reframe: I’m not getting enough sleep
 
