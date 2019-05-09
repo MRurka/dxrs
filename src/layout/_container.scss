@@ -16,18 +16,18 @@ $default-gutter-padding: 1rem;
 }
 @include respond-above(sm) {
   .container {
-    max-width: 720px;
+    max-width: 700px;
   }
 }
 @include respond-above(md) {
   .container {
     // max-width: 960px;
-    max-width: 800px;
+    max-width: 700px;
   }
 }
 @include respond-above(lg) {
   .container {
     // max-width: 1140px;
-    max-width: 800px;
+    max-width: 700px;
   }
 }
