@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from 'gatsby'
+import { Helmet } from "react-helmet"
 import "../layout/module.scss"
 import PostLink from "../components/index-item"
 import Header from "../components/header.js"
@@ -17,6 +18,9 @@ const IndexPage = ({
 
   return (
     <div class="index-container">
+      <Helmet>
+        <meta name="robots" content="noindex">
+      </Helmet>
       <Header></Header>
       <PageBlockOne></PageBlockOne>
       <div className="index-item-container">

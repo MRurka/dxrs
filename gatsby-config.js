@@ -7,8 +7,14 @@ module.exports = {
   },
 
   plugins: [
+    // Sass Compiling
     `gatsby-plugin-sass`,
+
+    // Netlify CMS
     `gatsby-plugin-netlify-cms`,
+
+    // Adding page metadata
+    `gatsby-plugin-react-helmet`,
     {
       // Set directory for markdown files
       resolve: `gatsby-source-filesystem`,
@@ -52,6 +58,7 @@ module.exports = {
             },
           },
           {
+            // Necessary for processing non-JPG/PNG files
             resolve: `gatsby-remark-copy-images`,
           },
         ],
