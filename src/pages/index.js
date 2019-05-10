@@ -19,7 +19,7 @@ const IndexPage = ({
   return (
     <div class="index-container">
       <Helmet>
-        <meta name="robots" content="noindex">
+        <meta name="robots" content="noindex" />
       </Helmet>
       <Header></Header>
       <PageBlockOne></PageBlockOne>
