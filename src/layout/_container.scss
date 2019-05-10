@@ -1,8 +1,10 @@
+$default-gutter-padding: 1rem;
+
 // Container modified from Bootstrap v4
 .container {
   width: 100%;
-  padding-right: 1rem;
-  padding-left: 1rem;
+  padding-right: $default-gutter-padding;
+  padding-left: $default-gutter-padding;
   margin-right: auto;
   margin-left: auto;
 }
@@ -14,18 +16,18 @@
 }
 @include respond-above(sm) {
   .container {
-    max-width: 720px;
+    max-width: 700px;
   }
 }
 @include respond-above(md) {
   .container {
     // max-width: 960px;
-    max-width: 800px;
+    max-width: 700px;
   }
 }
 @include respond-above(lg) {
   .container {
     // max-width: 1140px;
-    max-width: 800px;
+    max-width: 700px;
   }
 }

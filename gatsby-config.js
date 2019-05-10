@@ -1,7 +1,20 @@
 module.exports = {
+
+  // Website meta information
+  siteMetadata: {
+    title: "My Homepage",
+    description: "This is where I write my thoughts.",
+  },
+
   plugins: [
+    // Sass Compiling
     `gatsby-plugin-sass`,
+
+    // Netlify CMS
     `gatsby-plugin-netlify-cms`,
+
+    // Adding page metadata
+    `gatsby-plugin-react-helmet`,
     {
       // Set directory for markdown files
       resolve: `gatsby-source-filesystem`,
@@ -44,13 +57,12 @@ module.exports = {
               maxWidth: 900,
             },
           },
+          {
+            // Necessary for processing non-JPG/PNG files
+            resolve: `gatsby-remark-copy-images`,
+          },
         ],
       },
     },
   ],
-  // Website meta information
-  siteMetadata: {
-    title: "My Homepage",
-    description: "This is where I write my thoughts.",
-  },
 }

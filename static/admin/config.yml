@@ -14,10 +14,8 @@ collections:
     fields:
       - { name: title,      label: Title }
       - { name: subtitle,   label: Subtitle }
-      - { name: first,      label: First Name }
-      - { name: nickname,   label: Nickname }
-      - { name: last,       label: Last Name }
       - { name: path,       label: Path }
       - { name: date,       label: Date,            widget: date }
       - { name: thumbnail,  label: Feature Image,   widget: image }
+      - { name: banner,     label: Banner Image,    widget: image }
       - { name: body,       label: Body,            widget: markdown }

@@ -1,0 +1,91 @@
+@import "../layout/module.scss";
+
+// Post header styling
+// .blog-post-header {
+//   height: 30rem;
+//   width: 100%;
+//   background-size: cover;
+//   background-position: center;
+// }
+
+// Post content alignment
+.body {
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+}
+
+.body {
+  .title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: #171B24;
+    @include respond-above(sm) {
+      font-size: 5rem;
+      margin-top: 5rem;
+      margin-bottom: 4rem;
+    }
+  }
+}
+
+.markdownContent {
+  line-height: 1.8em;
+  h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    @include respond-above(sm) {
+      font-size: 1.8rem;
+    }
+  }
+  h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    margin-top: 1.5em;
+    font-weight: 600;
+    color: #171B24;
+    line-height: 1.3em;
+    @include respond-above(sm) {
+      font-size: 1.3em;
+    }
+  }
+  p {
+    margin-bottom: 1.2rem;
+    @include respond-above(sm) {
+      font-size: 1.15rem;
+    }
+  }
+  ul {
+    margin-left: 1rem;
+    margin-bottom: 1.2rem;
+    list-style-type: disc;
+    @include respond-above(sm) {
+      font-size: 1.15rem;
+      line-height: 1.7em;
+    }
+    li {
+      margin-bottom: 1rem;
+    }
+  }
+  strong {
+    font-weight: 700;
+  }
+  img {
+    // These !important tags are necessary to overwride the default markdown image wrappers
+    width: calc(100% + 2rem) !important;
+    margin-left: -1rem !important;
+    margin-right: -1rem !important;
+    @include respond-above(sm) {
+      margin: 0 !important;
+      width: 100% !important;
+    }
+  }
+  blockquote {
+    border-left: 4px solid #e4e4e4;
+    padding-left: 1.2em;
+    font-style: italic;
+    margin-top: 2rem;
+    margin-bottom: 2rem;  
+  }
+}
