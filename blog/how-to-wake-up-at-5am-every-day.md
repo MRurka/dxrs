@@ -207,8 +207,6 @@ Even better, record a custom message for yourself: _“Michael, I know you want 
 
 # Fin
 
-If you found this helpful, please clap 👏 and share it with a friend in need 🙏
-
 Empires are built one stone at a time. Every morning is an opportunity to craft each of these stones to perfection.
 
 Settle for no less.
