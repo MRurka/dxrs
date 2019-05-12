@@ -33,8 +33,8 @@
     "uglify-js": "^3.5.11"
   },
   "devDependencies": {
+    "fsevents": "^2.0.6",
     "uglifyjs-webpack-plugin": "^2.1.2",
-    "webpack": "^4.31.0",
-    "fsevents": "^2.0.6"
+    "webpack": "^4.31.0"
   }
 }
