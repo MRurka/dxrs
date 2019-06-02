@@ -2,8 +2,12 @@ module.exports = {
 
   // Website meta information
   siteMetadata: {
-    title: "My Homepage",
-    description: "This is where I write my thoughts.",
+    title: "XXX",
+    titleTemplate: "%s · The Real Hero",
+    description: "150 characters",
+    url: "https://www.wolo.club", // No trailing slash allowed!
+    image: "", // Path to your image you placed in the 'static' folder
+    twitterUsername: "",
   },
 
   plugins: [
