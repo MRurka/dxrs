@@ -5,7 +5,7 @@ import SEO from "../components/SEO.js"
 import "../layout/module.scss"
 import Header from "../components/header.js"
 import Footer from "../components/footer.js"
-import styles from "./blogTemplate.module.scss"
+import styles from "../layout/_content.module.scss"
 
 export default function Template ({
   data, // this prop will be injected by the GraphQL query below.

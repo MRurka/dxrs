@@ -12,6 +12,7 @@
 .body {
   padding-bottom: 3rem;
   padding-top: 3rem;
+  color: $gray-1;
 }
 
 .body {
@@ -19,7 +20,7 @@
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 2rem;
-    color: #171B24;
+    color: $gray-1;
     @include respond-above(sm) {
       font-size: 5rem;
       margin-top: 5rem;
@@ -28,8 +29,17 @@
   }
 }
 
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: $gray-1;
+  line-height: 1.2em;
+  margin-bottom: 0.5em;
+}
+
 .markdownContent {
   line-height: 1.8em;
+  color: $gray-1;
   h1 {
     font-size: 1.8rem;
     font-weight: 700;
@@ -44,7 +54,6 @@
     margin-bottom: 0.5rem;
     margin-top: 1.5em;
     font-weight: 600;
-    color: #171B24;
     line-height: 1.3em;
     @include respond-above(sm) {
       font-size: 1.3em;
@@ -86,6 +95,6 @@
     padding-left: 1.2em;
     font-style: italic;
     margin-top: 2rem;
-    margin-bottom: 2rem;  
+    margin-bottom: 2rem;
   }
 }
