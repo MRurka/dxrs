@@ -12,7 +12,9 @@ export default AboutPage => (
   <div>
     <SEO></SEO>
     <div>
-      <Header></Header>
+      <div className="page-heading">
+        <Header></Header>
+      </div>
       <div className={styles.block}>
         <div className="container">
           <div>

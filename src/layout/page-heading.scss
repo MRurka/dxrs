@@ -1,0 +1,15 @@
+
+.page-heading {
+  width: 100%;
+  height: 50vh;
+  max-height: 400px;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e6e6e8+0,d0d4df+100 */
+  background: url("/assets/about-heading-image.png"), #e6e6e8; /* Old browsers */
+  background: url("/assets/about-heading-image.png"), -moz-linear-gradient(top,  #e6e6e8 0%, #d0d4df 100%); /* FF3.6-15 */
+  background: url("/assets/about-heading-image.png"), -webkit-linear-gradient(top,  #e6e6e8 0%,#d0d4df 100%); /* Chrome10-25,Safari5.1-6 */
+  background: url("/assets/about-heading-image.png"), linear-gradient(to bottom,  #e6e6e8 0%,#d0d4df 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e6e8', endColorstr='#d0d4df',GradientType=0 ); /* IE6-9 */
+  background-size: contain;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
