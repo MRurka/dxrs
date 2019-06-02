@@ -2,12 +2,12 @@ module.exports = {
 
   // Website meta information
   siteMetadata: {
-    title: "XXX",
-    titleTemplate: "%s · The Real Hero",
-    description: "150 characters",
+    title: "WOLO | We Only Live Once",
+    titleTemplate: "%s",
+    description: "WOLO is a global community that believes in the pursuit of purpose, experiences and the betterment of oneself and the people around us. Join the club!",
     url: "https://www.wolo.club", // No trailing slash allowed!
-    image: "", // Path to your image you placed in the 'static' folder
-    twitterUsername: "",
+    image: "/assets/wolo-club-thumbnail-image.jpg", // Path to your image you placed in the 'static' folder
+    twitterUsername: "@_rurka",
   },
 
   plugins: [
