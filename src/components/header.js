@@ -4,7 +4,7 @@ import styles from "./header.module.scss"
 import "../layout/module.scss"
 
 export default Header => (
-  <div className="container">
+  <div className="container-wide">
     <div className={styles.header}>
       <div className={styles.logo}>
         <Link to="/">

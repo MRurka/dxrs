@@ -1,4 +1,5 @@
 $default-gutter-padding: 1rem;
+$default-gutter-padding-wide: 2rem;
 
 // Container modified from Bootstrap v4
 .container {
@@ -7,6 +8,12 @@ $default-gutter-padding: 1rem;
   padding-left: $default-gutter-padding;
   margin-right: auto;
   margin-left: auto;
+}
+
+.container-wide {
+  width: 100%;
+  padding-right: $default-gutter-padding-wide;
+  padding-left: $default-gutter-padding-wide;
 }
 
 @include respond-above(xs) {
