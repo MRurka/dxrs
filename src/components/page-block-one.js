@@ -11,7 +11,7 @@ export default PageBlockOne => (
           Let’s make the best of it.
         </h1>
         <div className={styles.subtitle}>
-          WOLO is a collection of life design resources, supported by a community of good people.
+          WOLO is a global community that believes in the pursuit of purpose, experiences and the betterment of oneself and the people around us.
         </div>
       </div>
     </div>
