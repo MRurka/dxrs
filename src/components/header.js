@@ -4,8 +4,8 @@ import styles from "./header.module.scss"
 import "../layout/module.scss"
 
 export default Header => (
-  <div className={styles.header}>
-    <div className="container">
+  <div className="container">
+    <div className={styles.header}>
       <div className={styles.logo}>
         <Link to="/">
           <svg width="92" height="30" viewBox="0 0 92 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -13,8 +13,10 @@ export default Header => (
           </svg>
         </Link>
       </div>
-      <div className={styles.menu}>
-
+      <div className={styles.nav}>
+        <Link className={styles.link} to="/about">
+          About
+        </Link>
       </div>
     </div>
   </div>

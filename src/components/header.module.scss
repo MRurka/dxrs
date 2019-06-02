@@ -1,4 +1,24 @@
 
 .header {
   margin-top: 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  order: 1;
+}
+
+.nav {
+ order: 2;
+}
+
+.link {
+  text-decoration: none;
+  color: #999CB3;
+  letter-spacing: 1px;
+  transition: 0.25s;
+  &:hover {
+    color: #737688;
+  }
 }

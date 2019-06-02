@@ -19,7 +19,7 @@ const IndexPage = ({
   return (
     <div>
       <SEO></SEO>
-      <div class="index-container">
+      <div>
         <Header></Header>
         <PageBlockOne></PageBlockOne>
         <div className="index-item-container">
