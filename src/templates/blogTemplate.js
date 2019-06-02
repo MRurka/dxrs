@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import "../layout/module.scss"
 import styles from "./blogTemplate.module.scss"
 import Header from "../components/header.js"
+import Footer from "../components/footer.js"
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -35,6 +36,7 @@ export default function Template({
           <div className={styles.markdownContent} dangerouslySetInnerHTML={{ __html: html }}/>
         </div>
       </div>
+      <Footer></Footer>
     </div>
   )
 }
