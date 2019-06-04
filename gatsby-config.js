@@ -5,9 +5,10 @@ module.exports = {
     title: "WOLO | We Only Live Once",
     titleTemplate: "%s",
     description: "WOLO is a global community that believes in the pursuit of purpose, experiences and the betterment of oneself and the people around us. Join the club!",
-    url: "https://www.wolo.club", // No trailing slash allowed!
+    url: "https://www.wolo.club", // Used for SEO component // No trailing slash allowed!
     image: "/assets/wolo-club-thumbnail-image.jpg", // Path to your image you placed in the 'static' folder
     twitterUsername: "@_rurka",
+    siteUrl: `https://www.wolo.club`, // Used for Sitemap
   },
 
   plugins: [
@@ -19,6 +20,16 @@ module.exports = {
 
     // Adding page metadata
     `gatsby-plugin-react-helmet`,
+
+    // Sitemap generator
+    `gatsby-plugin-sitemap`,
+    {
+      // Google Analytics
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-141364380-1",
+      },
+    },
     {
       // Set directory for markdown files
       resolve: `gatsby-source-filesystem`,
